@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "革命广场 | Revolution Square",
+    "description": "探索古巴哈瓦那的革命广场（Plaza de la Revolución）。这是古巴最重要的政治和文化地标，承载着丰富的历史意义和革命精神。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Revolution Square",
+    "subtitle": "革命广场 · 古巴哈瓦那",
+    "rating": "4.5",
+    "reviewCount": "7,331",
+    "hours": "城市广场",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索革命广场",
+    "description": "革命广场（Plaza de la Revolución）位于古巴首都哈瓦那，是古巴最大、最著名的城市广场之一。广场以何塞·马蒂纪念碑和切·格瓦拉、卡米洛·西恩富戈斯的巨型墙面肖像而闻名于世。这里不仅是古巴重要的政治集会场所，也是感受古巴革命历史和文化精神的必访之地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "广场全天开放，建议白天前往参观",
+        "参观何塞·马蒂纪念碑和博物馆",
+        "在观景台可以俯瞰整个哈瓦那市区",
+        "建议预留 1-2 小时游览时间"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "何塞·马蒂纪念碑：高达 109 米的纪念碑是哈瓦那的标志性建筑，内部设有博物馆和观景台。",
+        "切·格瓦拉肖像：位于内政部大楼墙上的巨型切·格瓦拉肖像，是古巴最具代表性的图像之一。",
+        "卡米洛·西恩富戈斯肖像：位于通讯部大楼，与切·格瓦拉肖像遥相呼应。",
+        "历史意义：这里是古巴许多重要政治集会和庆典活动的举办地。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索革命广场的理想路线：",
+    "steps": [
+      "从广场中心开始，参观何塞·马蒂纪念碑。",
+      "进入纪念碑内部的博物馆，了解古巴独立英雄的历史。",
+      "乘坐电梯或攀登台阶前往观景台，俯瞰哈瓦那全景。",
+      "参观周围的内政部和通讯部大楼，欣赏切·格瓦拉和卡米洛的巨型肖像。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "建议早上或傍晚前往，此时光线最适合拍照。",
+      "参观纪念碑内部需要购票，建议提前了解开放时间。",
+      "广场面积较大，建议穿着舒适的步行鞋。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现革命广场的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史意义",
+        "content": "革命广场是古巴现代历史上最重要的地标之一。自1959年古巴革命以来，这里一直是重大的政治集会和庆典活动的中心。每年5月1日的国际劳动节和7月26日的攻克蒙卡达兵营纪念日，都会有数十万人聚集于此。"
+      },
+      {
+        "id": "culture",
+        "title": "文化象征",
+        "content": "广场上的切·格瓦拉和卡米洛·西恩富戈斯肖像已成为古巴革命精神的全球象征。何塞·马蒂纪念碑纪念的是古巴独立英雄和民族精神领袖，是古巴人民自豪感的体现。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "站在革命广场上，您可以感受到古巴历史的厚重和革命的热情。从纪念碑观景台俯瞰哈瓦那，城市美景尽收眼底，这是一次难忘的文化和历史体验。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Revolution Square（革命广场 / Plaza de la Revolución）",
+    "type": "景点类型",
+    "typeValue": "城市广场 / 历史地标",
+    "country": "国家",
+    "countryValue": "古巴",
+    "city": "城市",
+    "cityValue": "哈瓦那（La Habana）",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "4JF7+3FQ, Av. Paseo, La Habana, 古巴",
+    "plusCode": "Plus 代码",
+    "plusCodeValue": "4JF7+3FQ",
+    "phone": "官方电话",
+    "phoneValue": "无"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "广场开放时间",
+    "outdoorTime": "全天开放（公共广场）",
+    "lighthouse": "纪念碑博物馆开放时间",
+    "summer": "周二至周六",
+    "summerTime": "9:00–17:00",
+    "winter": "周日及周一",
+    "winterTime": "9:00–13:00（请核实最新信息）",
+    "warning": "重要提示",
+    "warningTime": "建议在参观前核实最新信息",
+    "tip": "白天前往可获得最佳的参观体验"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "outdoor": "何塞·马蒂纪念碑",
+    "outdoorPrice": "参观博物馆和观景台需购票，价格请现场咨询",
+    "lighthouse": "广场区域",
+    "adults": "广场本身",
+    "adultsPrice": "免费开放",
+    "students": "导览服务",
+    "studentsPrice": "可现场咨询是否有导览服务",
+    "card": "游览提示",
+    "cardPrice": "建议携带防晒用品和水，广场区域日照较强。",
+    "officialNotice": "关于最新的门票价格及开放时间动态，请查阅",
+    "officialNoticeLinkLabel": "古巴国家旅游部官方信息",
+    "officialNoticeLink": "https://www.cuba.travel/"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "距何塞·马蒂国际机场（HAV）约 18 公里，可乘坐出租车或机场巴士前往市区，再转车前往革命广场。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "广场位于哈瓦那市中心，交通便利，但周边停车较为困难，建议使用出租车或公共交通。",
+    "bus": "公共交通",
+    "busDesc": "可乘坐哈瓦那的公交车或出租车前往，广场是城市主要地标，司机均知晓位置。",
+    "intercity": "步行游览",
+    "intercityDesc": "广场本身可以步行游览，周边也有许多值得参观的历史建筑。",
+    "cycling": "其他方式",
+    "cyclingDesc": "哈瓦那有出租车和共享单车等服务，可根据需求选择。",
+    "tips": "出行建议",
+    "tipsDesc": "革命广场是了解古巴现代历史和革命文化的重要场所，建议白天前往，并预留足够时间参观纪念碑内部。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "革命广场的魅力风光",
+    "captions": [
+      "广场全景",
+      "何塞·马蒂纪念碑",
+      "纪念碑外观",
+      "广场风貌",
+      "切·格瓦拉肖像",
+      "观景台视野",
+      "广场周围建筑",
+      "卡米洛肖像",
+      "广场氛围",
+      "纪念碑内部",
+      "哈瓦那全景",
+      "广场文化",
+      "广场全貌"
+    ],
+    "viewAll": "在 Google Maps 查看更多照片",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在 Google Maps 查看更多评价",
+    "items": [
+      {
+        "name": "Carlos Rodríguez",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "一个充满历史意义的地方。站在广场上，您可以感受到古巴革命的伟大精神和历史厚重感。"
+      },
+      {
+        "name": "María Fernández",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "令人惊叹的历史地标。何塞·马蒂纪念碑非常壮观，从观景台可以俯瞰整个哈瓦那的美景。"
+      },
+      {
+        "name": "John Smith",
+        "date": "2周前",
+        "rating": 4,
+        "text": "非常有意义的地方，可以深入了解古巴的历史和文化。切·格瓦拉的肖像令人印象深刻。"
+      },
+      {
+        "name": "Ana López",
+        "date": "半年多前",
+        "rating": 5,
+        "text": "古巴历史的重要组成部分。广场的氛围令人感动，这里是哈瓦那必去的地方之一。"
+      },
+      {
+        "name": "Roberto Martínez",
+        "date": "1年前",
+        "rating": 4,
+        "text": "很好的历史文化体验。纪念碑建筑非常精彩，周边还有很多值得探索的地方。"
+      },
+      {
+        "name": "Sophie Dubois",
+        "date": "3个月前",
+        "rating": 5,
+        "text": "美丽而庄严的广场，充满了古巴历史的魅力。切·格瓦拉的肖像令人难忘，一定要来体验。"
+      },
+      {
+        "name": "Luis Gómez",
+        "date": "2个月前",
+        "rating": 4,
+        "text": "有趣的历史场所。可以近距离感受古巴革命历史，建议请导游讲解会更深入。"
+      },
+      {
+        "name": "Elena Castro",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "哈瓦那的重要地标。革命广场是了解古巴现代历史的重要场所，一定要来体验。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "4JF7+3FQ, Av. Paseo, La Habana, 古巴",
+    "openMaps": "在 Google Maps 查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Revolution Square. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "cubaTravel": {
+        "name": "古巴国家旅游部",
+        "url": "https://www.cuba.travel/"
+      },
+      "presidencia": {
+        "name": "古巴共和国总统府与政府",
+        "url": "https://www.presidencia.gob.cu/"
+      },
+      "granma": {
+        "name": "格拉玛报",
+        "url": "https://en.granma.cu/"
+      },
+      "minrex": {
+        "name": "古巴外交部",
+        "url": "https://cubaminrex.cu/es"
+      },
+      "prensaLatina": {
+        "name": "拉美通讯社",
+        "url": "https://www.prensa-latina.cu/"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）、谷歌分析（用于流量分析）和 Unsplash（用于图片）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR)及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。图片来自 Unsplash，并已获得其许可。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们会记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  },
+  "officialManagement": {
+    "title": "关于革命广场",
+    "text": "革命广场是古巴哈瓦那最重要的历史地标和政治文化中心，承载着古巴革命的光辉历史和民族精神，是每一位到访哈瓦那的游客必访之地。"
+  },
+  "historyTimeline": {
+    "title": "历史变迁时间线",
+    "items": [
+      {
+        "year": "1900年代",
+        "title": "20世纪初：广场建设",
+        "plaque": "城市建设（广场建成）",
+        "description": "广场最初名为「共和国广场」（Plaza Cívica），于20世纪初建成，是当时城市规划的重要组成部分。"
+      },
+      {
+        "year": "1950年代",
+        "title": "1950年代：纪念碑建设",
+        "plaque": "纪念碑建设（何塞·马蒂纪念碑）",
+        "description": "何塞·马蒂纪念碑于1953年开始建设，1976年完工。纪念碑高109米，是哈瓦那最高的建筑之一。"
+      },
+      {
+        "year": "1960年代",
+        "title": "1960年代：革命象征",
+        "plaque": "文化象征（切·格瓦拉肖像）",
+        "description": "革命后，内政部大楼墙上绘制了巨大的切·格瓦拉肖像，通讯部大楼绘制了卡米洛·西恩富戈斯肖像，广场由此成为古巴革命的象征。"
+      },
+      {
+        "year": "现代",
+        "title": "现代：更名为革命广场",
+        "plaque": "政治地标（革命广场）",
+        "description": "广场于1959年古巴革命后更名为「革命广场」（Plaza de la Revolución），成为古巴最重要的政治集会和文化活动的举办地。"
+      }
+    ],
+    "guideTitle": "游客导览建议",
+    "guideContent": "游客在参观时，可以先从广场中心开始，参观何塞·马蒂纪念碑并登上观景台俯瞰哈瓦那全景；随后参观纪念碑内部的博物馆，了解古巴独立英雄何塞·马蒂的生平和思想；然后前往广场周围，欣赏内政部和通讯部大楼上的切·格瓦拉和卡米洛·西恩富戈斯的巨型肖像。最后在广场上漫步，感受这个承载着古巴现代历史的重要地标的庄严氛围。"
+  }
+}

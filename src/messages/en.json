@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "Revolution Square | Plaza de la Revolución",
+    "description": "Explore Revolution Square in Havana, Cuba. This is Cuba's most important political and cultural landmark, carrying rich historical significance and revolutionary spirit."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Revolution Square",
+    "subtitle": "Plaza de la Revolución · Havana, Cuba",
+    "rating": "4.5",
+    "reviewCount": "7,331",
+    "hours": "City Square",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Revolution Square",
+    "description": "Revolution Square (Plaza de la Revolución) is located in Havana, the capital of Cuba. It is one of Cuba's largest and most famous city squares. The square is world-renowned for the José Martí Memorial and the giant wall portraits of Che Guevara and Camilo Cienfuegos. It is not only an important venue for political gatherings in Cuba but also a must-visit place to experience Cuban revolutionary history and cultural spirit.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "The square is open all day, daytime visits are recommended",
+        "Visit the José Martí Memorial and Museum",
+        "The observation deck offers a panoramic view of Havana",
+        "Recommended visiting time: 1-2 hours"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "José Martí Memorial: The 109-meter tall memorial is a landmark of Havana, with a museum and observation deck inside.",
+        "Che Guevara Portrait: The giant Che Guevara portrait on the Ministry of Interior building is one of Cuba's most iconic images.",
+        "Camilo Cienfuegos Portrait: Located on the Ministry of Communications building, it complements the Che Guevara portrait.",
+        "Historical Significance: This is the venue for many important political rallies and celebrations in Cuba."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The ideal route to explore Revolution Square:",
+    "steps": [
+      "Start from the center of the square and visit the José Martí Memorial.",
+      "Enter the museum inside the memorial to learn about the history of Cuba's independence hero.",
+      "Take the elevator or climb the stairs to the observation deck for a panoramic view of Havana.",
+      "Visit the surrounding Ministry of Interior and Ministry of Communications buildings to admire the giant portraits of Che and Camilo."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "Morning or evening visits are recommended for the best lighting for photos.",
+      "There is an entrance fee for the memorial interior, check opening hours in advance.",
+      "The square is large, comfortable walking shoes are recommended."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Revolution Square",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "Revolution Square is one of the most important landmarks in modern Cuban history. Since the 1959 Cuban Revolution, it has been the center for major political rallies and celebrations. Every year on May 1st (International Workers' Day) and July 26th (Moncada Barracks Attack anniversary), hundreds of thousands of people gather here."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Symbol",
+        "content": "The Che Guevara and Camilo Cienfuegos portraits on the square have become global symbols of the Cuban revolutionary spirit. The José Martí Memorial honors Cuba's independence hero and spiritual leader, embodying the Cuban people's sense of pride."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Standing on Revolution Square, you can feel the weight of Cuban history and the passion of the revolution. Overlooking Havana from the memorial observation deck, the beautiful cityscape unfolds before your eyes. This is an unforgettable cultural and historical experience."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Revolution Square (Plaza de la Revolución)",
+    "type": "Attraction Type",
+    "typeValue": "City Square / Historical Landmark",
+    "country": "Country",
+    "countryValue": "Cuba",
+    "city": "City",
+    "cityValue": "Havana, Cuba",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "4JF7+3FQ",
+    "phone": "Official Phone",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Square Opening Hours",
+    "outdoorTime": "Open all day (public square)",
+    "lighthouse": "Memorial Museum Opening Hours",
+    "summer": "Tuesday to Saturday",
+    "summerTime": "9:00 AM – 5:00 PM",
+    "winter": "Sunday and Monday",
+    "winterTime": "9:00 AM – 1:00 PM (please verify latest information)",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Daytime visits offer the best experience"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "José Martí Memorial",
+    "outdoorPrice": "Museum and observation deck require tickets, please inquire on-site for prices",
+    "lighthouse": "Square Area",
+    "adults": "The square itself",
+    "adultsPrice": "Free and open to the public",
+    "students": "Guided Tours",
+    "studentsPrice": "Inquire on-site if guided tours are available",
+    "card": "Tour Tips",
+    "cardPrice": "Bring sun protection and water, the square area has strong sunlight exposure.",
+    "officialNotice": "For the latest updates on ticket prices and opening hours, please refer to the",
+    "officialNoticeLinkLabel": "Official Cuba Ministry of Tourism Information",
+    "officialNoticeLink": "https://www.cuba.travel/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Approximately 18 km from José Martí International Airport (HAV). Take a taxi or airport bus to the city center, then transfer to Revolution Square.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "The square is located in central Havana with convenient transportation, but parking nearby can be difficult. Taxis or public transport are recommended.",
+    "bus": "Public Transport",
+    "busDesc": "You can take Havana's buses or taxis. The square is a major city landmark and all drivers know the location.",
+    "intercity": "Walking Tour",
+    "intercityDesc": "The square itself can be explored on foot, and there are many historical buildings worth visiting in the surrounding area.",
+    "cycling": "Other Means",
+    "cyclingDesc": "Havana has taxis and bike-sharing services, choose according to your needs.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Revolution Square is an important place to understand modern Cuban history and revolutionary culture. Daytime visits are recommended, with sufficient time to visit the interior of the memorial."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Revolution Square",
+    "captions": [
+      "Square panoramic view",
+      "José Martí Memorial",
+      "Memorial exterior",
+      "Square scenery",
+      "Che Guevara portrait",
+      "Observation deck view",
+      "Surrounding buildings",
+      "Camilo portrait",
+      "Square atmosphere",
+      "Memorial interior",
+      "Havana panorama",
+      "Square culture",
+      "Full square view"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rodríguez",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "A place full of historical significance. Standing on the square, you can feel the great spirit of the Cuban Revolution and the weight of history."
+      },
+      {
+        "name": "María Fernández",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Amazing historical landmark. The José Martí Memorial is spectacular, and you can overlook the beautiful scenery of all Havana from the observation deck."
+      },
+      {
+        "name": "John Smith",
+        "date": "2 weeks ago",
+        "rating": 4,
+        "text": "Very meaningful place to gain deep understanding of Cuban history and culture. The Che Guevara portrait is impressive."
+      },
+      {
+        "name": "Ana López",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "An important part of Cuban history. The atmosphere of the square is moving, a must-visit place in Havana."
+      },
+      {
+        "name": "Roberto Martínez",
+        "date": "1 year ago",
+        "rating": 4,
+        "text": "Great historical and cultural experience. The memorial architecture is wonderful, and there are many places worth exploring nearby."
+      },
+      {
+        "name": "Sophie Dubois",
+        "date": "3 months ago",
+        "rating": 5,
+        "text": "Beautiful and solemn square, full of the charm of Cuban history. The Che Guevara portrait is unforgettable, definitely worth a visit."
+      },
+      {
+        "name": "Luis Gómez",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Interesting historical venue. Experience Cuban revolutionary history up close, guided tours are recommended for deeper understanding."
+      },
+      {
+        "name": "Elena Castro",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "An important landmark of Havana. Revolution Square is an important place to understand modern Cuban history, definitely worth experiencing."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Revolution Square. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "cubaTravel": {
+        "name": "Ministry of Tourism of Cuba",
+        "url": "https://www.cuba.travel/"
+      },
+      "presidencia": {
+        "name": "Presidency of Cuba",
+        "url": "https://www.presidencia.gob.cu/"
+      },
+      "granma": {
+        "name": "Granma Newspaper",
+        "url": "https://en.granma.cu/"
+      },
+      "minrex": {
+        "name": "Ministry of Foreign Affairs of Cuba",
+        "url": "https://cubaminrex.cu/es"
+      },
+      "prensaLatina": {
+        "name": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Revolution Square",
+    "text": "Revolution Square is the most important historical landmark and political cultural center in Havana, Cuba, carrying the glorious history of the Cuban Revolution and national spirit. It is a must-visit place for every tourist visiting Havana."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "1900s",
+        "title": "Early 20th Century: Square Construction",
+        "plaque": "Urban Development (Square Built)",
+        "description": "The square was originally named 'Plaza Cívica' (Civic Square) and was built in the early 20th century as an important part of urban planning."
+      },
+      {
+        "year": "1950s",
+        "title": "1950s: Memorial Construction",
+        "plaque": "Memorial Construction (José Martí Memorial)",
+        "description": "Construction of the José Martí Memorial began in 1953 and was completed in 1976. At 109 meters tall, it is one of the tallest buildings in Havana."
+      },
+      {
+        "year": "1960s",
+        "title": "1960s: Revolutionary Symbol",
+        "plaque": "Cultural Symbol (Che Guevara Portrait)",
+        "description": "After the revolution, giant Che Guevara portraits were painted on the Ministry of Interior building, and Camilo Cienfuegos portraits on the Ministry of Communications building, making the square a symbol of the Cuban Revolution."
+      },
+      {
+        "year": "Modern",
+        "title": "Modern Era: Renamed to Revolution Square",
+        "plaque": "Political Landmark (Revolution Square)",
+        "description": "The square was renamed 'Plaza de la Revolución' after the 1959 Cuban Revolution, becoming the most important venue for political rallies and cultural events in Cuba."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start from the center of the square and visit the José Martí Memorial, then ascend to the observation deck for a panoramic view of Havana; then visit the museum inside the memorial to learn about the life and thoughts of Cuba's independence hero José Martí; then head to the surroundings of the square to admire the giant portraits of Che Guevara and Camilo Cienfuegos on the Ministry of Interior and Ministry of Communications buildings. Finally, stroll on the square and feel the solemn atmosphere of this important landmark that carries modern Cuban history."
+  }
+}

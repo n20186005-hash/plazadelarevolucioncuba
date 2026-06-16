@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "Plaza de la Revolución | Revolution Square",
+    "description": "Explora la Plaza de la Revolución en La Habana, Cuba. Este es el hito político y cultural más importante de Cuba, que lleva una rica significancia histórica y espíritu revolucionario."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Plaza de la Revolución",
+    "subtitle": "Plaza de la Revolución · La Habana, Cuba",
+    "rating": "4.5",
+    "reviewCount": "7,331",
+    "hours": "Plaza de la Ciudad",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora la Plaza de la Revolución",
+    "description": "La Plaza de la Revolución se encuentra en La Habana, capital de Cuba. Es una de las plazas de la ciudad más grandes y famosas de Cuba. La plaza es reconocida mundialmente por el Monumento a José Martí y los retratos gigantes de Che Guevara y Camilo Cienfuegos en las paredes. No es solo un lugar importante para reuniones políticas en Cuba, sino también un lugar imprescindible para experimentar la historia revolucionaria de Cuba y el espíritu cultural.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "La plaza está abierta todo el día, se recomiendan las visitas diurnas",
+        "Visita el Monumento y Museo José Martí",
+        "El mirador ofrece una vista panorámica de La Habana",
+        "Tiempo de visita recomendado: 1-2 horas"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Monumento a José Martí: El monumento de 109 metros es un hito de La Habana, con un museo y mirador en el interior.",
+        "Retrato de Che Guevara: El retrato gigante de Che Guevara en el edificio del Ministerio del Interior es una de las imágenes más icónicas de Cuba.",
+        "Retrato de Camilo Cienfuegos: Ubicado en el edificio del Ministerio de Comunicaciones, complementa el retrato de Che Guevara.",
+        "Significancia Histórica: Este es el lugar para muchas reuniones políticas y celebraciones importantes en Cuba."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "La ruta ideal para explorar la Plaza de la Revolución:",
+    "steps": [
+      "Comienza desde el centro de la plaza y visita el Monumento a José Martí.",
+      "Entra al museo dentro del monumento para conocer la historia del héroe de la independencia de Cuba.",
+      "Toma el ascensor o sube las escaleras al mirador para obtener una vista panorámica de La Habana.",
+      "Visita los edificios circundantes del Ministerio del Interior y Ministerio de Comunicaciones para admirar los retratos gigantes de Che y Camilo."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Se recomiendan las visitas por la mañana o al atardecer para la mejor iluminación para fotos.",
+      "Hay una tarifa de entrada para el interior del monumento, verifica los horarios de apertura con anticipación.",
+      "La plaza es grande, se recomiendan zapatos cómodos para caminar."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto de la Plaza de la Revolución",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "La Plaza de la Revolución es uno de los hitos más importantes en la historia moderna de Cuba. Desde la Revolución Cubana de 1959, ha sido el centro de importantes marchas políticas y celebraciones. Cada año, el 1 de mayo (Día Internacional de los Trabajadores) y el 26 de julio (aniversario del ataque al Cuartel Moncada), cientos de miles de personas se reúnen aquí."
+      },
+      {
+        "id": "culture",
+        "title": "Símbolo Cultural",
+        "content": "Los retratos de Che Guevara y Camilo Cienfuegos en la plaza se han convertido en símbolos globales del espíritu revolucionario cubano. El Monumento a José Martí honra al héroe de la independencia y líder espiritual de Cuba, encarnando el sentido de orgullo del pueblo cubano."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Parado en la Plaza de la Revolución, puedes sentir la importancia de la historia cubana y la pasión de la revolución. Desde el mirador del monumento se puede ver toda La Habana, el hermoso paisaje urbano se despliega ante tus ojos. Esta es una experiencia cultural e histórica inolvidable."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Plaza de la Revolución (Revolution Square)",
+    "type": "Tipo de atracción",
+    "typeValue": "Plaza de la ciudad / Hito histórico",
+    "country": "País",
+    "countryValue": "Cuba",
+    "city": "Ciudad",
+    "cityValue": "La Habana, Cuba",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "4JF7+3FQ",
+    "phone": "Teléfono Oficial",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Horario de la Plaza",
+    "outdoorTime": "Abierto todo el día (plaza pública)",
+    "lighthouse": "Horario del Museo del Monumento",
+    "summer": "Martes a sábado",
+    "summerTime": "9:00 AM – 5:00 PM",
+    "winter": "Domingo y lunes",
+    "winterTime": "9:00 AM – 1:00 PM (por favor verificar la información más reciente)",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+  },
+  "tickets": {
+    "title": "Información de Entradas",
+    "outdoor": "Monumento a José Martí",
+    "outdoorPrice": "El museo y el mirador requieren entradas, por favor consulta los precios en el lugar",
+    "lighthouse": "Área de la Plaza",
+    "adults": "La plaza misma",
+    "adultsPrice": "Entrada gratuita y abierta al público",
+    "students": "Visitas Guiadas",
+    "studentsPrice": "Consulta en el lugar si hay visitas guiadas disponibles",
+    "card": "Consejos de Visita",
+    "cardPrice": "Trae protección solar y agua, el área de la plaza tiene fuerte exposición solar.",
+    "officialNotice": "Para obtener las últimas actualizaciones sobre precios de entradas y horarios de apertura, consulte el",
+    "officialNoticeLinkLabel": "Información Oficial del Ministerio de Turismo de Cuba",
+    "officialNoticeLink": "https://www.cuba.travel/"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "Aproximadamente 18 km del Aeropuerto Internacional José Martí (HAV). Toma un taxi o autobús del aeropuerto al centro de la ciudad, luego transborda a la Plaza de la Revolución.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "La plaza está ubicada en el centro de La Habana con transporte conveniente, pero el estacionamiento cercano puede ser difícil. Se recomiendan taxis o transporte público.",
+    "bus": "Transporte Público",
+    "busDesc": "Puedes tomar los autobuses o taxis de La Habana. La plaza es un hito importante de la ciudad y todos los conductores conocen la ubicación.",
+    "intercity": "Tour a Pie",
+    "intercityDesc": "La plaza misma se puede explorar a pie, y hay muchos edificios históricos que vale la pena visitar en el área circundante.",
+    "cycling": "Otros Medios",
+    "cyclingDesc": "La Habana tiene servicios de taxis y bicicletas compartidas, elige según tus necesidades.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "La Plaza de la Revolución es un lugar importante para comprender la historia moderna de Cuba y la cultura revolucionaria. Se recomiendan las visitas diurnas, con tiempo suficiente para visitar el interior del monumento."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto de la Plaza de la Revolución",
+    "captions": [
+      "Vista panorámica de la plaza",
+      "Monumento a José Martí",
+      "Exterior del monumento",
+      "Paisaje de la plaza",
+      "Retrato de Che Guevara",
+      "Vista del mirador",
+      "Edificios circundantes",
+      "Retrato de Camilo",
+      "Ambiente de la plaza",
+      "Interior del monumento",
+      "Panorama de La Habana",
+      "Cultura de la plaza",
+      "Vista completa de la plaza"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Rodríguez",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "Un lugar lleno de significancia histórica. Parado en la plaza, puedes sentir el gran espíritu de la Revolución Cubana y la importancia de la historia."
+      },
+      {
+        "name": "María Fernández",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Hito histórico asombroso. El Monumento a José Martí es espectacular, y puedes sobrever todo el hermoso paisaje de La Habana desde el mirador."
+      },
+      {
+        "name": "John Smith",
+        "date": "hace 2 semanas",
+        "rating": 4,
+        "text": "Lugar muy significativo para comprender profundamente la historia y cultura de Cuba. El retrato de Che Guevara es impresionante."
+      },
+      {
+        "name": "Ana López",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Una parte importante de la historia de Cuba. El ambiente de la plaza es conmovedor, un lugar imprescindible en La Habana."
+      },
+      {
+        "name": "Roberto Martínez",
+        "date": "hace 1 año",
+        "rating": 4,
+        "text": "Excelente experiencia histórica y cultural. La arquitectura del monumento es maravillosa, y hay muchos lugares que vale la pena explorar cerca."
+      },
+      {
+        "name": "Sophie Dubois",
+        "date": "hace 3 meses",
+        "rating": 5,
+        "text": "Plaza hermosa y solemne, llena del encanto de la historia cubana. El retrato de Che Guevara es inolvidable, definitivamente vale la pena visitarlo."
+      },
+      {
+        "name": "Luis Gómez",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Lugar histórico interesante. Experimento la historia revolucionaria cubana de cerca, se recomiendan las visitas guiadas para una comprensión más profunda."
+      },
+      {
+        "name": "Elena Castro",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Un hito importante de La Habana. La Plaza de la Revolución es un lugar importante para comprender la historia moderna de Cuba, definitivamente vale la pena experimentarlo."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Plaza de la Revolución. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "cubaTravel": {
+        "name": "Ministerio de Turismo de Cuba",
+        "url": "https://www.cuba.travel/"
+      },
+      "presidencia": {
+        "name": "Presidencia de Cuba",
+        "url": "https://www.presidencia.gob.cu/"
+      },
+      "granma": {
+        "name": "Periódico Granma",
+        "url": "https://en.granma.cu/"
+      },
+      "minrex": {
+        "name": "Ministerio de Relaciones Exteriores de Cuba",
+        "url": "https://cubaminrex.cu/es"
+      },
+      "prensaLatina": {
+        "name": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Acerca de la Plaza de la Revolución",
+    "text": "La Plaza de la Revolución es el hito histórico y centro político y cultural más importante en La Habana, Cuba, que lleva la gloriosa historia de la Revolución Cubana y el espíritu nacional. Es un lugar imprescindible para cada turista que visite La Habana."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "1900s",
+        "title": "Principios del siglo XX: Construcción de la plaza",
+        "plaque": "Desarrollo urbano (Plaza construida)",
+        "description": "La plaza se llamaba originalmente 'Plaza Cívica' y fue construida a principios del siglo XX como una parte importante de la planificación urbana."
+      },
+      {
+        "year": "1950s",
+        "title": "Años 1950: Construcción del monumento",
+        "plaque": "Construcción del monumento (Monumento a José Martí)",
+        "description": "La construcción del Monumento a José Martí comenzó en 1953 y se completó en 1976. Con 109 metros de altura, es uno de los edificios más altos de La Habana."
+      },
+      {
+        "year": "1960s",
+        "title": "Años 1960: Símbolo revolucionario",
+        "plaque": "Símbolo cultural (Retrato de Che Guevara)",
+        "description": "Después de la revolución, se pintaron gigantescos retratos de Che Guevara en el edificio del Ministerio del Interior, y de Camilo Cienfuegos en el edificio del Ministerio de Comunicaciones, convirtiendo la plaza en un símbolo de la Revolución Cubana."
+      },
+      {
+        "year": "Moderno",
+        "title": "Era Moderna: Renombrado a Plaza de la Revolución",
+        "plaque": "Hito político (Plaza de la Revolución)",
+        "description": "La plaza fue renombrada 'Plaza de la Revolución' después de la Revolución Cubana de 1959, convirtiéndose en el lugar más importante para marchas políticas y eventos culturales en Cuba."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puedes comenzar desde el centro de la plaza y visitar el Monumento a José Martí, luego subir al mirador para obtener una vista panorámica de La Habana; luego visita el museo dentro del monumento para conocer la vida y pensamientos del héroe de la independencia de Cuba, José Martí; luego dirígete a los alrededores de la plaza para admirar los retratos gigantes de Che Guevara y Camilo Cienfuegos en los edificios del Ministerio del Interior y Ministerio de Comunicaciones. Finalmente, camina por la plaza y siente el ambiente solemne de este importante hito que lleva la historia moderna de Cuba."
+  }
+}
