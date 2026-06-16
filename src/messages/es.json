@@ -19,35 +19,34 @@
     "openMaps": "Ver Ubicación"
   },
   "intro": {
-    "title": "Explora la Plaza de la Revolución",
-    "description": "La Plaza de la Revolución se encuentra en La Habana, capital de Cuba. Es una de las plazas de la ciudad más grandes y famosas de Cuba. La plaza es reconocida mundialmente por el Monumento a José Martí y los retratos gigantes de Che Guevara y Camilo Cienfuegos en las paredes. No es solo un lugar importante para reuniones políticas en Cuba, sino también un lugar imprescindible para experimentar la historia revolucionaria de Cuba y el espíritu cultural.",
+    "title": "Siente el Latido del Corazón de Cuba",
+    "description": "Ubicada en La Habana, la capital de Cuba, la Plaza de la Revolución no solo es una de las plazas urbanas más grandes del mundo, sino también un testigo absoluto de la historia moderna de Cuba. De pie aquí, bajo la mirada de José Martí y frente al retrato de acero del Che Guevara, se puede sentir la gloria y las vicisitudes de la Revolución Cubana.",
     "visitGuide": {
-      "title": "Consejos de Visita",
+      "title": "Consejos de Expertos",
       "items": [
-        "La plaza está abierta todo el día, se recomiendan las visitas diurnas",
-        "Visita el Monumento y Museo José Martí",
-        "El mirador ofrece una vista panorámica de La Habana",
-        "Tiempo de visita recomendado: 1-2 horas"
+        "Mejor Iluminación: Se recomienda visitar temprano en la mañana o al atardecer. La plaza no tiene sombra al mediodía, el sol es extremadamente deslumbrante y no es ideal para retratos.",
+        "Protección Solar: Asegúrese de llevar gafas de sol, un sombrero y aplicarse protector solar. No es conveniente comprar agua potable alrededor de la plaza, así que traiga su propia agua embotellada.",
+        "Transporte: Está a cierta distancia de La Habana Vieja. Se recomienda encarecidamente tomar el autobús turístico (Hop-on Hop-off) o un taxi de auto clásico, y el conductor lo dejará en el mejor lugar para tomar fotos."
       ]
     },
     "alsoKnownAs": {
       "title": "Destacados",
       "items": [
-        "Monumento a José Martí: El monumento de 109 metros es un hito de La Habana, con un museo y mirador en el interior.",
-        "Retrato de Che Guevara: El retrato gigante de Che Guevara en el edificio del Ministerio del Interior es una de las imágenes más icónicas de Cuba.",
-        "Retrato de Camilo Cienfuegos: Ubicado en el edificio del Ministerio de Comunicaciones, complementa el retrato de Che Guevara.",
-        "Significancia Histórica: Este es el lugar para muchas reuniones políticas y celebraciones importantes en Cuba."
+        "Monumento a José Martí: Una torre en forma de estrella de 109 metros, el edificio más alto de La Habana. En su interior hay un museo que es como un corredor del tiempo, y el mirador en la cima ofrece una vista panorámica de 360° de La Habana.",
+        "Retrato Gigante del Che Guevara: Una icónica obra de arte de acero incrustada en la pared exterior del edificio del Ministerio del Interior, con su cita inmortal tallada en la parte inferior: 'Hasta la Victoria Siempre'.",
+        "Retrato de Camilo Cienfuegos: Ubicado en el edificio del Ministerio de Comunicaciones, añadido en 2009, haciendo eco al Che Guevara, grabado con 'Vas bien, Fidel'.",
+        "Lugar para Fotos con Autos Clásicos: Coloridos autos antiguos están estacionados a lo largo del borde de la plaza durante todo el año, lo que lo convierte en un fondo perfecto para fotos retro de La Habana."
       ]
     }
   },
   "route": {
     "title": "Ruta de Visita",
-    "overview": "La ruta ideal para explorar la Plaza de la Revolución:",
+    "overview": "Ruta Clásica de 1.5 Horas:",
     "steps": [
-      "Comienza desde el centro de la plaza y visita el Monumento a José Martí.",
-      "Entra al museo dentro del monumento para conocer la historia del héroe de la independencia de Cuba.",
-      "Toma el ascensor o sube las escaleras al mirador para obtener una vista panorámica de La Habana.",
-      "Visita los edificios circundantes del Ministerio del Interior y Ministerio de Comunicaciones para admirar los retratos gigantes de Che y Camilo."
+      "Inicio: Llegue al centro de la plaza y tome una foto panorámica de los retratos gigantes en los dos edificios desde el espacio abierto.",
+      "Explorar: Ingrese al Monumento a José Martí y visite el museo biográfico en el primer piso.",
+      "Ascender: Tome el ascensor directamente al mirador de 109 metros de altura para contemplar la costa y la textura urbana de La Habana.",
+      "Final: Regrese al borde de la plaza y tómese una foto con un auto clásico descapotable retro para dejar un recuerdo clásico de Cuba."
     ],
     "supplementsTitle": "Consejos Adicionales de Visita",
     "supplements": [
@@ -90,9 +89,7 @@
     "address": "Dirección",
     "addressValue": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
     "plusCode": "Código Plus",
-    "plusCodeValue": "4JF7+3FQ",
-    "phone": "Teléfono Oficial",
-    "phoneValue": "N/A"
+    "plusCodeValue": "4JF7+3FQ"
   },
   "hours": {
     "title": "Horarios de Apertura",
@@ -350,28 +347,34 @@
     "title": "Cronología Histórica",
     "items": [
       {
-        "year": "1900s",
-        "title": "Principios del siglo XX: Construcción de la plaza",
-        "plaque": "Desarrollo urbano (Plaza construida)",
-        "description": "La plaza se llamaba originalmente 'Plaza Cívica' y fue construida a principios del siglo XX como una parte importante de la planificación urbana."
+        "year": "Años 1920",
+        "title": "Nace el Concepto",
+        "plaque": "Nace el Concepto",
+        "description": "Urbanistas franceses propusieron el concepto inicial de construir una 'Plaza Cívica'."
       },
       {
-        "year": "1950s",
-        "title": "Años 1950: Construcción del monumento",
-        "plaque": "Construcción del monumento (Monumento a José Martí)",
-        "description": "La construcción del Monumento a José Martí comenzó en 1953 y se completó en 1976. Con 109 metros de altura, es uno de los edificios más altos de La Habana."
+        "year": "Años 1950",
+        "title": "Construcción Oficial",
+        "plaque": "Construcción Oficial",
+        "description": "La plaza y el Monumento a José Martí comenzaron a construirse en 1953, y la estructura principal se completó en 1958, convirtiéndose en el nuevo núcleo de la ciudad."
       },
       {
-        "year": "1960s",
-        "title": "Años 1960: Símbolo revolucionario",
-        "plaque": "Símbolo cultural (Retrato de Che Guevara)",
-        "description": "Después de la revolución, se pintaron gigantescos retratos de Che Guevara en el edificio del Ministerio del Interior, y de Camilo Cienfuegos en el edificio del Ministerio de Comunicaciones, convirtiendo la plaza en un símbolo de la Revolución Cubana."
+        "year": "1959",
+        "title": "Renombramiento Revolucionario",
+        "plaque": "Renombramiento Revolucionario",
+        "description": "Tras la victoria de la Revolución Cubana, pasó a llamarse oficialmente 'Plaza de la Revolución', convirtiéndose en el centro político donde Fidel Castro pronunció discursos ante millones de personas."
       },
       {
-        "year": "Moderno",
-        "title": "Era Moderna: Renombrado a Plaza de la Revolución",
-        "plaque": "Hito político (Plaza de la Revolución)",
-        "description": "La plaza fue renombrada 'Plaza de la Revolución' después de la Revolución Cubana de 1959, convirtiéndose en el lugar más importante para marchas políticas y eventos culturales en Cuba."
+        "year": "1993",
+        "title": "Tótem Espiritual",
+        "plaque": "Tótem Espiritual",
+        "description": "El retrato gigante de acero del Che Guevara, creado por el artista Enrique Ávila, fue inaugurado en el edificio del Ministerio del Interior."
+      },
+      {
+        "year": "2009",
+        "title": "Reunión de Héroes",
+        "plaque": "Reunión de Héroes",
+        "description": "El retrato de acero de Camilo Cienfuegos fue desvelado en el edificio del Ministerio de Comunicaciones."
       }
     ],
     "guideTitle": "Consejo de Guía para Visitantes",

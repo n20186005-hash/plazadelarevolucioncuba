@@ -19,35 +19,34 @@
     "openMaps": "View Location"
   },
   "intro": {
-    "title": "Explore Revolution Square",
-    "description": "Revolution Square (Plaza de la Revolución) is located in Havana, the capital of Cuba. It is one of Cuba's largest and most famous city squares. The square is world-renowned for the José Martí Memorial and the giant wall portraits of Che Guevara and Camilo Cienfuegos. It is not only an important venue for political gatherings in Cuba but also a must-visit place to experience Cuban revolutionary history and cultural spirit.",
+    "title": "Feel the Beating Heart of Cuba",
+    "description": "Located in Havana, the capital of Cuba, Revolution Square is not only one of the largest city squares in the world but also an absolute witness to modern Cuban history. Standing here, under the gaze of José Martí and in front of the steel portrait of Che Guevara, you can feel the glory and vicissitudes of the Cuban Revolution.",
     "visitGuide": {
-      "title": "Visiting Tips",
+      "title": "Pro Tips",
       "items": [
-        "The square is open all day, daytime visits are recommended",
-        "Visit the José Martí Memorial and Museum",
-        "The observation deck offers a panoramic view of Havana",
-        "Recommended visiting time: 1-2 hours"
+        "Best Lighting: It is recommended to visit in the early morning or evening. The square has no shade at noon, the sun is extremely glaring and not ideal for portraits.",
+        "Sun Protection: Be sure to bring sunglasses, a hat, and apply sunscreen. It is not convenient to buy drinking water around the square, so bring your own bottled water.",
+        "Transportation: It is some distance from the Old Town (Habana Vieja). It is highly recommended to take the Hop-on Hop-off bus or a classic car taxi, and the driver will drop you at the best photo spot."
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "José Martí Memorial: The 109-meter tall memorial is a landmark of Havana, with a museum and observation deck inside.",
-        "Che Guevara Portrait: The giant Che Guevara portrait on the Ministry of Interior building is one of Cuba's most iconic images.",
-        "Camilo Cienfuegos Portrait: Located on the Ministry of Communications building, it complements the Che Guevara portrait.",
-        "Historical Significance: This is the venue for many important political rallies and celebrations in Cuba."
+        "José Martí Memorial: A 109-meter star-shaped tower, the tallest building in Havana. Inside is a museum like a time corridor, and the top observation deck offers a 360° panoramic view of Havana.",
+        "Che Guevara Giant Portrait: An iconic steel artwork embedded on the outer wall of the Ministry of Interior building, with his immortal quote carved at the bottom: 'Hasta la Victoria Siempre' (Until Victory, Always).",
+        "Camilo Cienfuegos Portrait: Located on the Ministry of Communications building, added in 2009, echoing Che Guevara, engraved with 'Vas bien, Fidel' (You're doing well, Fidel).",
+        "Classic Car Photo Spot: Colorful vintage cars are parked along the edge of the square year-round, making it a perfect background for retro Havana photos."
       ]
     }
   },
   "route": {
     "title": "Tour Route",
-    "overview": "The ideal route to explore Revolution Square:",
+    "overview": "Classic 1.5-Hour Route:",
     "steps": [
-      "Start from the center of the square and visit the José Martí Memorial.",
-      "Enter the museum inside the memorial to learn about the history of Cuba's independence hero.",
-      "Take the elevator or climb the stairs to the observation deck for a panoramic view of Havana.",
-      "Visit the surrounding Ministry of Interior and Ministry of Communications buildings to admire the giant portraits of Che and Camilo."
+      "Start: Arrive at the center of the square and take a panoramic photo of the giant portraits on the two buildings from the open space.",
+      "Explore: Enter the José Martí Memorial and visit the biographical museum on the first floor.",
+      "Ascend: Take the elevator straight to the 109-meter-high observation deck to take in the coastline and urban texture of Havana.",
+      "Finale: Return to the edge of the square and take a photo with a retro convertible classic car to leave a classic Cuban memory."
     ],
     "supplementsTitle": "Additional Tour Tips",
     "supplements": [
@@ -90,9 +89,7 @@
     "address": "Address",
     "addressValue": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
     "plusCode": "Plus Code",
-    "plusCodeValue": "4JF7+3FQ",
-    "phone": "Official Phone",
-    "phoneValue": "N/A"
+    "plusCodeValue": "4JF7+3FQ"
   },
   "hours": {
     "title": "Opening Hours",
@@ -350,28 +347,34 @@
     "title": "Historical Timeline",
     "items": [
       {
-        "year": "1900s",
-        "title": "Early 20th Century: Square Construction",
-        "plaque": "Urban Development (Square Built)",
-        "description": "The square was originally named 'Plaza Cívica' (Civic Square) and was built in the early 20th century as an important part of urban planning."
+        "year": "1920s",
+        "title": "Concept Born",
+        "plaque": "Concept Born",
+        "description": "French urban planners proposed the initial concept of building a 'Plaza Cívica' (Civic Square)."
       },
       {
         "year": "1950s",
-        "title": "1950s: Memorial Construction",
-        "plaque": "Memorial Construction (José Martí Memorial)",
-        "description": "Construction of the José Martí Memorial began in 1953 and was completed in 1976. At 109 meters tall, it is one of the tallest buildings in Havana."
+        "title": "Officially Built",
+        "plaque": "Officially Built",
+        "description": "The square and the José Martí Memorial began construction in 1953, and the main structure was completed in 1958, becoming the new core of the city."
       },
       {
-        "year": "1960s",
-        "title": "1960s: Revolutionary Symbol",
-        "plaque": "Cultural Symbol (Che Guevara Portrait)",
-        "description": "After the revolution, giant Che Guevara portraits were painted on the Ministry of Interior building, and Camilo Cienfuegos portraits on the Ministry of Communications building, making the square a symbol of the Cuban Revolution."
+        "year": "1959",
+        "title": "Revolutionary Renaming",
+        "plaque": "Revolutionary Renaming",
+        "description": "After the victory of the Cuban Revolution, it was officially renamed 'Plaza de la Revolución', becoming the political center where Fidel Castro delivered speeches to millions of people."
       },
       {
-        "year": "Modern",
-        "title": "Modern Era: Renamed to Revolution Square",
-        "plaque": "Political Landmark (Revolution Square)",
-        "description": "The square was renamed 'Plaza de la Revolución' after the 1959 Cuban Revolution, becoming the most important venue for political rallies and cultural events in Cuba."
+        "year": "1993",
+        "title": "Spiritual Totem",
+        "plaque": "Spiritual Totem",
+        "description": "The giant steel portrait of Che Guevara, created by artist Enrique Ávila, was inaugurated on the Ministry of Interior building."
+      },
+      {
+        "year": "2009",
+        "title": "Heroes Gather",
+        "plaque": "Heroes Gather",
+        "description": "The steel portrait of Camilo Cienfuegos was unveiled on the Ministry of Communications building."
       }
     ],
     "guideTitle": "Visitor Guide Tip",

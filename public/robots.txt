@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://revolution-square.com/sitemap.xml
+Sitemap: https://plazadelarevolucioncuba.com/sitemap.xml
