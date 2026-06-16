@@ -1,0 +1,162 @@
+update 名称的所有文件检查并删除了包含非本景点错误信息的旧更新脚本与文本 通过检索，发现在根目录下存在多个 .js 脚本和 .txt 文本，其中硬编码了之前站点的旧信息
+
+我们网站是
+plazadelarevolucioncuba.com
+检查下有没有错误
+
+
+检查一下信息和景点是否匹配修正成错误并给出建议让网站更像一个专业的景点落地页
+
+
+
+古巴哈瓦那 Revolution Square
+
+Revolution Square
+Plaza de la Revolución
+4.5(7,331)
+广场
+
+4JF7+3FQ, Av. Paseo, La Habana, 古巴
+
+https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+单景点买.com 域名推荐
+
+# 表单填写内容（中英对照）
+## 1. 国家/地区*
+中文：古巴
+英文：Cuba
+
+## 2. 地址*
+中文：革命大道
+英文：Av. Paseo
+
+## 3. 地址2（选填，填地标）
+中文：革命广场
+英文：Plaza de la Revolución (Revolution Square)
+
+## 4. 城市*
+中文：哈瓦那
+英文：La Habana
+
+## 5. 省/自治区/直辖市*
+中文：哈瓦那省
+英文：La Habana Province
+
+## 6. 邮政编码*
+中文：4JF7+3FQ
+英文：4JF7+3FQ
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Revolution Square 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、英文、西班牙文、三种语言
+
+revolution-square
+
+古巴哈瓦那 Revolution Square
+
+Revolution Square
+Plaza de la Revolución
+4.5(7,331)
+广场
+
+4JF7+3FQ, Av. Paseo, La Habana, 古巴
+
+https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\古巴\revolution-square\public\gallery\
+
+删除原先友情链接，新增以下友情链接
+
+古巴国家旅游部
+https://www.cuba.travel/
+古巴共和国总统府与政府
+https://www.presidencia.gob.cu/
+格拉玛报
+https://en.granma.cu/
+古巴外交部
+https://cubaminrex.cu/es
+拉美通讯社
+https://www.prensa-latina.cu/
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+页面一共四个链接每一个都需要修改
+	
+照片画廊
+精彩照片
+检查照片名称是否正确并修正
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/W8thrgWWbavuLXwa7
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNESCO 世界遗产名录 (哈瓦那)
+https://whc.unesco.org/en/list/204/
+大英百科全书
+https://www.britannica.com/place/Havana
+
+
+
+
+
+古巴国家旅游局官方门户 (Cuba Travel - MINTUR)
+
+网址：https://www.cuba.travel/
+
+说明：古巴旅游部的官方平台。作为权威旅游指南，是为地标景点背书、提升页面行业相关性的首选官方链接。
+
+古巴共和国总统府与政府官网 (Presidencia de Cuba)
+
+网址：https://www.presidencia.gob.cu/
+
+说明：革命广场的核心建筑“革命宫”（Palacio de la Revolución）正是古巴政府及国家元首的办公所在地，是广场政治地位的最高权威出处。
+
+何塞·马蒂国家图书馆 (Biblioteca Nacional de Cuba José Martí)
+
+网址：https://bnjm.cu/
+
+说明：该国家级公共图书馆直接坐落于革命广场的东侧，是该地标建筑群中极其重要的文化与历史组成部分。
+
+古巴内政部 (Ministerio del Interior - MININT)
+
+网址：https://www.minint.gob.cu/
+
+说明：内政部大楼位于广场北侧，其外立面上悬挂着世界闻名的切·格瓦拉（Che Guevara）巨型钢铁壁画（附带“Hasta la Victoria Siempre”标语），是游客在此打卡最核心的视觉标志。
+
+古巴通信部 (Ministerio de Comunicaciones - MINCOM)
+
+网址：https://www.mincom.gob.cu/
+
+说明：通信部大楼紧邻内政部，其外墙上装饰着另一位革命英雄卡米洛·西恩富戈斯（Camilo Cienfuegos）的巨型钢铁头像。这两栋政府大楼构成了广场最具辨识度的景观。
