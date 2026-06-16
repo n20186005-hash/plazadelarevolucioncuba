@@ -5,7 +5,6 @@ import { useState, useCallback } from 'react';
 
 const photoFiles = [
   'revolution-square-1.jpg',
-  'revolution-square-2.jpg',
   'revolution-square-3.jpg',
   'revolution-square-4.jpg',
   'revolution-square-5.jpg',
