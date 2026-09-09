@@ -1,17 +1,20 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/W8thrgWWbavuLXwa7";
+  const mapsUrl = siteConfig.mapsUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/revolution-square-1.jpg"
-          alt="Revolution Square"
+          src={siteConfig.heroImage}
+          alt={t('imgAlt')}
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

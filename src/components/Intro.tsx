@@ -1,15 +1,46 @@
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
   const tOff = useTranslations('officialManagement');
+  const locale = useLocale();
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const breadcrumbItems: string[] = messages?.breadcrumb?.items || [];
 
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <nav
+          aria-label="Breadcrumb"
+          className="mb-8 text-sm"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          <ol className="flex flex-wrap items-center gap-2">
+            {breadcrumbItems.map((label, i) => (
+              <li key={i} className="flex items-center gap-2">
+                {i > 0 && <span aria-hidden="true">›</span>}
+                {i === 0 ? (
+                  <a
+                    href={`/${locale}`}
+                    className="hover:underline"
+                    style={{ color: 'var(--accent)' }}
+                  >
+                    {label}
+                  </a>
+                ) : i === breadcrumbItems.length - 1 ? (
+                  <span className="font-medium" style={{ color: 'var(--text-primary)' }}>
+                    {label}
+                  </span>
+                ) : (
+                  <span>{label}</span>
+                )}
+              </li>
+            ))}
+          </ol>
+        </nav>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}

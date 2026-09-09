@@ -1,26 +1,29 @@
 {
   "meta": {
-    "title": "Plaza de la Revolución | Revolution Square",
-    "description": "Explora la Plaza de la Revolución en La Habana, Cuba. Este es el hito político y cultural más importante de Cuba, que lleva una rica significancia histórica y espíritu revolucionario."
+    "title": "Plaza de la Revolución, La Habana: Guía, Mapa y Cómo Llegar",
+    "description": "Conoce la Plaza de la Revolución en La Habana, Cuba: murales del Che Guevara y de Cienfuegos, Monumento a José Martí, mapa, horarios y cómo llegar."
   },
   "header": {
     "home": "Inicio",
+    "brand": "Plaza de la Revolución",
     "gallery": "Galería",
     "reviews": "Reseñas",
+    "faq": "FAQ",
     "map": "Mapa",
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Plaza de la Revolución",
+    "title": "Plaza de la Revolución (Revolution Square)",
     "subtitle": "Plaza de la Revolución · La Habana, Cuba",
     "rating": "4.5",
-    "reviewCount": "7,331",
+    "reviewCount": "7,333",
     "hours": "Plaza de la Ciudad",
-    "openMaps": "Ver Ubicación"
+    "openMaps": "Ver Ubicación",
+    "imgAlt": "Plaza de la Revolución (Revolution Square) - Vista principal en La Habana, Cuba"
   },
   "intro": {
     "title": "Siente el Latido del Corazón de Cuba",
-    "description": "Ubicada en La Habana, la capital de Cuba, la Plaza de la Revolución no solo es una de las plazas urbanas más grandes del mundo, sino también un testigo absoluto de la historia moderna de Cuba. De pie aquí, bajo la mirada de José Martí y frente al retrato de acero del Che Guevara, se puede sentir la gloria y las vicisitudes de la Revolución Cubana.",
+    "description": "Ubicada en La Habana, la capital de Cuba, la Plaza de la Revolución no solo es una de las plazas urbanas más grandes del mundo, sino también un testigo absoluto de la historia moderna de Cuba. De pie aquí, bajo la mirada de José Martí y frente al retrato de acero del Che Guevara, se puede sentir la gloria y las vicisitudes de la Revolución Cubana. Al visitar la Plaza de la Revolución (Revolution Square), los viajeros pueden explorar fácilmente los monumentos y puntos de interés cercanos, incluidos el Monumento a José Martí, La Habana Vieja y el Malecón.",
     "visitGuide": {
       "title": "Consejos de Expertos",
       "items": [
@@ -212,7 +215,9 @@
   "mapSection": {
     "title": "Ubicación y Mapa",
     "subtitle": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "authority": "Información turística oficial:",
+    "authorityLink": "Cuba Travel (Ministerio de Turismo)"
   },
   "footer": {
     "rights": "© 2026 Plaza de la Revolución. Todos los derechos reservados.",
@@ -242,11 +247,12 @@
         "url": "https://www.prensa-latina.cu/"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "photoCredit": "Todas las fotos mostradas en este sitio web pertenecen a sus respectivos propietarios de derechos de autor."
   },
   "privacy": {
     "title": "Política de Privacidad",
-    "lastUpdated": "Última actualización: junio de 2026",
+    "lastUpdated": "Última actualización: 9 de septiembre de 2026",
     "sections": [
       {
         "heading": "1. Información que Recopilamos",
@@ -268,7 +274,7 @@
   },
   "terms": {
     "title": "Términos de Servicio",
-    "lastUpdated": "Última actualización: junio de 2026",
+    "lastUpdated": "Última actualización: 9 de septiembre de 2026",
     "sections": [
       {
         "heading": "1. Aceptación de los Términos",
@@ -294,7 +300,7 @@
   },
   "cookieSettings": {
     "title": "Configuración de Cookies",
-    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "description": "Última actualización: 9 de septiembre de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
     "essential": {
       "title": "Cookies Esenciales",
       "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
@@ -378,5 +384,211 @@
     ],
     "guideTitle": "Consejo de Guía para Visitantes",
     "guideContent": "Al visitar, puedes comenzar desde el centro de la plaza y visitar el Monumento a José Martí, luego subir al mirador para obtener una vista panorámica de La Habana; luego visita el museo dentro del monumento para conocer la vida y pensamientos del héroe de la independencia de Cuba, José Martí; luego dirígete a los alrededores de la plaza para admirar los retratos gigantes de Che Guevara y Camilo Cienfuegos en los edificios del Ministerio del Interior y Ministerio de Comunicaciones. Finalmente, camina por la plaza y siente el ambiente solemne de este importante hito que lleva la historia moderna de Cuba."
+  },
+  "breadcrumb": {
+    "items": ["Inicio", "Cuba", "La Habana", "Plaza de la Revolución (Revolution Square)"]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Preguntas comunes sobre la ubicación, la entrada y la visita a la Plaza de la Revolución.",
+    "items": [
+      {
+        "q": "¿Dónde se encuentra la Plaza de la Revolución (Revolution Square)?",
+        "a": "La Plaza de la Revolución se encuentra en la Av. Paseo, en el centro de La Habana, Cuba (Plus Code 4JF7+3FQ), justo frente al Monumento a José Martí, en el barrio del Vedado. Es una plaza pública abierta y de entrada gratuita."
+      },
+      {
+        "q": "¿Es gratuita la visita a la Plaza de la Revolución?",
+        "a": "Sí. La plaza es un espacio público abierto las 24 horas durante todo el año y su acceso es gratuito. La entrada al museo y al mirador del Monumento a José Martí requiere entrada; consulta los precios en el lugar."
+      },
+      {
+        "q": "¿Qué se puede ver en la Plaza de la Revolución?",
+        "a": "Los principales atractivos incluyen el Monumento y la estatua de José Martí (torre en forma de estrella de 109 metros), el retrato gigante de acero del Che Guevara en el edificio del Ministerio del Interior, el retrato de Camilo Cienfuegos en el edificio del Ministerio de Comunicaciones y los coloridos autos clásicos estacionados en el borde de la plaza."
+      },
+      {
+        "q": "¿Cómo llegar a la Plaza de la Revolución?",
+        "a": "La plaza se encuentra en la Av. Paseo, en el centro de La Habana. Se puede llegar en taxi, en taxi de autos clásicos o en el autobús turístico (hop-on hop-off). Desde La Habana Vieja, el viaje dura aproximadamente 20-30 minutos."
+      },
+      {
+        "q": "¿Cuál es el mejor momento para visitar la Plaza de la Revolución?",
+        "a": "Se recomienda ir temprano por la mañana o al atardecer para obtener la mejor luz para las fotos, ya que la plaza abierta no tiene sombra al mediodía. Para el mirador del Monumento a José Martí, verifica los horarios actuales a través de los canales oficiales antes de tu visita."
+      },
+      {
+        "q": "¿Qué otros lugares de interés hay cerca de la Plaza de la Revolución?",
+        "a": "Cerca se pueden visitar La Habana Vieja, el Malecón, la Universidad de La Habana y las instituciones culturales del municipio Plaza de la Revolución, ideales para combinar en un itinerario de un día."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes e Información Oficial",
+    "subtitle": "Fuentes oficiales para planificar tu visita a la Plaza de la Revolución en La Habana.",
+    "lastUpdated": "Contenido revisado por última vez: 9 de septiembre de 2026",
+    "disclaimer": "Este sitio web es una guía de viaje independiente de terceros y no está afiliado al gobierno cubano ni a ninguna institución oficial. La información se ofrece solo como referencia; verifique siempre los datos a través de los canales oficiales antes de viajar.",
+    "items": [
+      {
+        "name": "Cuba Travel (Ministerio de Turismo)",
+        "url": "https://www.cuba.travel/",
+        "description": "El portal oficial de turismo de Cuba, con información de destinos y consejos prácticos para La Habana y todo el país."
+      },
+      {
+        "name": "Presidencia de Cuba",
+        "url": "https://www.presidencia.gob.cu/",
+        "description": "Sitio oficial del gobierno de Cuba con actividades nacionales y comunicados oficiales."
+      },
+      {
+        "name": "Periódico Granma",
+        "url": "https://en.granma.cu/",
+        "description": "El periódico oficial de Cuba, que cubre las noticias nacionales y los eventos culturales."
+      },
+      {
+        "name": "Ministerio de Relaciones Exteriores de Cuba (Minrex)",
+        "url": "https://cubaminrex.cu/es",
+        "description": "Sitio oficial del Ministerio de Relaciones Exteriores de Cuba con actualizaciones diplomáticas."
+      },
+      {
+        "name": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/",
+        "description": "Una agencia de noticias internacional con sede en Cuba que ofrece noticias sobre Cuba y el mundo."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Tiempo real y previsión a 7 días",
+    "subtitle": "El tiempo actual, la previsión a 7 días y consejos generados según el clima para visitar la Plaza de la Revolución en La Habana.",
+    "updated": "Datos actualizados a las",
+    "today": "Hoy",
+    "feels": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "uv": "Índice UV",
+    "precipProb": "Prob. lluvia",
+    "unavailable": "Los datos meteorológicos no están disponibles temporalmente. Inténtalo de nuevo más tarde.",
+    "days": {
+      "Sun": "dom",
+      "Mon": "lun",
+      "Tue": "mar",
+      "Wed": "mié",
+      "Thu": "jue",
+      "Fri": "vie",
+      "Sat": "sáb"
+    },
+    "groups": {
+      "clear": "Despejado",
+      "partly": "Parcialmente nublado",
+      "cloudy": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "snow": "Nieve",
+      "showers": "Chubascos",
+      "thunder": "Tormenta"
+    },
+    "advice": {
+      "dressLabel": "Cómo vestirse",
+      "planLabel": "Planifica la visita",
+      "gearLabel": "Qué llevar",
+      "riskLabel": "Avisos de riesgo",
+      "empty": "El tiempo es estable: puedes recorrer la plaza con normalidad y sin preparativos especiales.",
+      "dHeavy": "Lluvia y viento: elige una chaqueta impermeable o ropa de secado rápido.",
+      "dHot": "Hace calor: ropa ligera, transpirable y de colores claros; hidrátate con frecuencia.",
+      "dCold": "Temperaturas frescas: lleva abrigo y abriga cuello y manos.",
+      "dLayers": "La temperatura cambia entre el día y la noche: lleva una chaqueta ligera para las horas frescas.",
+      "dSnow": "Nieve: abrigo grueso y calzado cálido antideslizante.",
+      "pThunder": "Con tormenta eléctrica no conviene quedarse en zonas abiertas como la plaza: mejor retrasa la visita o elige un plan en interior.",
+      "pSnow": "Si nieva, la plaza ofrece una estampa especial, pero ve con calzado seguro y abrigo, despacio.",
+      "pHeavy": "Con lluvia fuerte, evita los paseos largos al aire libre; prioriza los museos y los espacios interiores.",
+      "pLight": "Con lluvia ligera el suelo resbala y el recorrido al aire libre pierde encanto: visita más corta y un plan interior de reserva.",
+      "pChance": "La probabilidad de lluvia es alta, aunque no es segura: lleva paraguas y ten un plan interior por si acaso.",
+      "pHot": "El sol del mediodía es intenso: visita la plaza a primera hora o al atardecer, fuera de las horas de más calor.",
+      "pOvercast": "Cielo cubierto sin sol fuerte y con luz suave: ideal para pasear y fotografiar los edificios.",
+      "pClear": "Buen tiempo para recorrer y fotografiar la plaza; al atardecer, la luz favorece los monumentos.",
+      "gHeavy": "Impermeable (más útil que el paraguas con viento)",
+      "gUmbrella": "Paraguas plegable",
+      "gUv": "Protector solar, gafas de sol y sombrero",
+      "gWater": "Agua para beber (evita la deshidratación)",
+      "gWarm": "Prenda de abrigo",
+      "rThunder": "Riesgo de rayos: la plaza es una zona muy abierta; durante la tormenta refúgiate en un edificio o en el coche y evita árboles y lugares elevados.",
+      "rHeavy": "Lluvia intensa: evita zonas bajas con charcos; el pavimento de la plaza resbala, camina con cuidado.",
+      "rGale": "Viento fuerte: aléjate de vallas, andamios y carteles, y ten cuidado con objetos que puedan caer.",
+      "rFog": "Poca visibilidad por niebla: camina y conduce con más calma y atención.",
+      "riskAlert": "Aviso oficial de {event}: reduce el tiempo al aire libre, evita zonas abiertas y sigue las indicaciones de las autoridades."
+    }
+  },
+  "facilities": {
+    "title": "Servicios para el Visitante e Instalaciones Cercanas",
+    "subtitle": "Servicios esenciales alrededor de la Plaza de la Revolución, ordenados por categorías para planificar una visita más cómoda (sin fines comerciales).",
+    "intro": "A continuación se muestran, solo por categorías, los servicios e instalaciones habituales de la zona para ayudarte a preparar la visita. Como sitio educativo y neutral, no recomendamos ningún negocio concreto.",
+    "hint": "Información neutral · sin recomendaciones comerciales",
+    "types": [
+      {
+        "name": "Aseos públicos",
+        "description": "Al ser un espacio público abierto, la plaza cuenta con pocos aseos fijos; busca instalaciones públicas junto al Monumento a José Martí y en los parques y museos cercanos, y confirma su estado antes de salir."
+      },
+      {
+        "name": "Aparcamiento",
+        "description": "Hay algo de aparcamiento en la calle a lo largo de la Av. Paseo y en las calles cercanas, además de solares junto al monumento. En días festivos y de actos se llenan, por lo que suele ser más práctico el taxi o el transporte público."
+      },
+      {
+        "name": "Restauración",
+        "description": "En las calles del Vedado que rodean la plaza hay restaurantes, cafeterías y puestos de comida con cocina cubana e internacional a poca distancia a pie."
+      },
+      {
+        "name": "Alojamiento",
+        "description": "Los barrios del Vedado y de Plaza de la Revolución ofrecen diversas opciones de alojamiento, desde hoteles hasta casas particulares."
+      },
+      {
+        "name": "Supermercados y tiendas",
+        "description": "En los barrios cercanos hay tiendas de conveniencia, supermercados y tiendas de recuerdos para comprar agua, aperitivos y artículos de viaje."
+      },
+      {
+        "name": "Gasolineras y recarga",
+        "description": "Hay gasolineras por toda la ciudad; los puntos de recarga para vehículos eléctricos todavía son escasos, así que conviene planificar la gasolina o la carga si conduces."
+      },
+      {
+        "name": "Efectivo y cambio de divisa",
+        "description": "En Cuba los pagos cotidianos se hacen sobre todo en efectivo. Conviene llevar dólares, euros o dólares canadienses y cambiarlos en bancos o casas de cambio oficiales (CADECA); el uso de cajeros con tarjetas extranjeras es limitado."
+      },
+      {
+        "name": "Farmacias y asistencia médica",
+        "description": "En la zona del Vedado hay farmacias y centros de salud; en caso de emergencia marca el 104."
+      }
+    ]
+  },
+  "stories": {
+    "title": "Historia y Anécdotas de la Plaza",
+    "subtitle": "Las historias detrás del perfil inconfundible de la plaza y su lugar en la memoria colectiva de Cuba.",
+    "kindFact": "Hecho histórico",
+    "kindTradition": "Tradición",
+    "items": [
+      {
+        "title": "De la Plaza Cívica a la Plaza de la Revolución",
+        "kind": "fact",
+        "text": "El amplio solar que hoy ocupa la plaza se reservó ya en la primera mitad del siglo XX como espacio cívico y se llamó originalmente Plaza Cívica. Tras el triunfo de la Revolución Cubana de 1959, el lugar pasó a llamarse Plaza de la Revolución y se convirtió en el escenario principal de las grandes concentraciones públicas del país."
+      },
+      {
+        "title": "La torre blanca de 109 metros del Monumento a José Martí",
+        "kind": "fact",
+        "text": "El Monumento a José Martí, en el centro de la plaza, honra al héroe nacional cubano. Su torre de 109 metros culmina en una estatua de mármol blanco de Martí obra del escultor Juan José Sicre, y desde la cima se domina toda la ciudad. Su silueta esbelta es uno de los rasgos más reconocibles del perfil de La Habana."
+      },
+      {
+        "title": "El rostro del Che: de la cámara de Korda al mural de acero",
+        "kind": "fact",
+        "text": "El enorme perfil del Che Guevara en la fachada del Ministerio del Interior procede de la famosa fotografía tomada por el fotógrafo cubano Alberto Korda en 1960. El artista Enrique Ávila trasladó la imagen a una silueta de hierro instalada en el edificio; se inauguró en 1993 bajo la leyenda «Hasta la Victoria Siempre». Iluminado por la noche, es una de las estampas más fotografiadas de la plaza."
+      },
+      {
+        "title": "Camilo Cienfuegos en el edificio de Comunicaciones",
+        "kind": "fact",
+        "text": "En el otro lado de la plaza, la fachada del Ministerio de Comunicaciones luce una silueta parecida que recuerda al héroe revolucionario Camilo Cienfuegos, junto a sus célebres palabras a Fidel Castro: «Vas bien, Fidel». Se inauguró en 2009, en el 50.º aniversario de su misteriosa desaparición."
+      },
+      {
+        "title": "Desfiles del Primero de Mayo y grandes celebraciones",
+        "kind": "tradition",
+        "text": "Desde los primeros años revolucionarios, la plaza es el lugar tradicional de los desfiles del Primero de Mayo, de las celebraciones del 26 de Julio y de los grandes actos nacionales, y ha acogido algunas de las mayores concentraciones de la historia del país. En 1998 y 2015, los papas Juan Pablo II y Francisco celebraron aquí sendas misas multitudinarias al aire libre."
+      },
+      {
+        "title": "¿Una de las plazas más grandes del mundo?",
+        "kind": "fact",
+        "text": "La inmensa explanada suele describirse como una de las plazas más grandes del mundo. Al no existir un único criterio oficial de medición, la afirmación es sobre todo impresionista; en cualquier caso, la amplitud del espacio abierto, enmarcado por la torre conmemorativa y los retratos gigantes, resulta inolvidable."
+      }
+    ]
   }
 }

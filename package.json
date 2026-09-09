@@ -4,9 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && node scripts/postprocess-root.mjs",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "check:i18n": "node scripts/check-i18n.mjs",
+    "optimize:images": "node scripts/optimize-gallery.mjs"
   },
   "dependencies": {
     "next": "^15.1.0",
@@ -19,6 +21,7 @@
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
+    "sharp": "^0.35.4",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.0"
   }

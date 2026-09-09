@@ -1,12 +1,14 @@
 'use client';
 
-import { useTranslations } from 'next-intl';
+import { useTranslations, useMessages } from 'next-intl';
 
 export default function HistoryTimeline() {
   const t = useTranslations('historyTimeline');
-  
-  // Create an array for the items to iterate easily
-  const items = [0, 1, 2];
+  const messages = useMessages() as any;
+
+  // 从消息数据读取时间线条目数量，渲染全部节点
+  const historyItems: unknown[] = messages?.historyTimeline?.items || [];
+  const items = historyItems.map((_, index) => index);
 
   return (
     <section className="section-padding" style={{ background: 'var(--bg-primary)' }}>

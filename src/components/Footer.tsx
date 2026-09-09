@@ -18,8 +18,11 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Revolution Square
+              Revolution Square (Plaza de la Revolución)
             </h3>
+            <p className="text-xs mb-4" style={{ color: 'var(--text-secondary)' }}>
+              4JF7+3FQ, Av. Paseo, La Habana, Cuba
+            </p>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
             </p>
@@ -57,6 +60,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('photoCredit')}</p>
         </div>
       </div>
     </footer>

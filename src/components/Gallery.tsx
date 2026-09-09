@@ -2,6 +2,7 @@
 
 import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { siteConfig } from '@/config';
 
 const photoFiles = [
   'revolution-square-1.jpg',
@@ -84,7 +85,7 @@ export default function Gallery() {
 
             <div className="flex justify-center mt-8">
               <a
-                href="https://maps.app.goo.gl/W8thrgWWbavuLXwa7"
+                href={siteConfig.mapsUrl}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm hover:underline"

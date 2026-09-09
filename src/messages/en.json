@@ -1,26 +1,29 @@
 {
   "meta": {
-    "title": "Revolution Square | Plaza de la Revolución",
-    "description": "Explore Revolution Square in Havana, Cuba. This is Cuba's most important political and cultural landmark, carrying rich historical significance and revolutionary spirit."
+    "title": "Revolution Square Havana: Visitor Guide, History & Map",
+    "description": "Plan your visit to Revolution Square (Plaza de la Revolución) in Havana, Cuba. Discover Che Guevara murals, José Martí Memorial, map, and travel tips."
   },
   "header": {
     "home": "Home",
+    "brand": "Revolution Square",
     "gallery": "Gallery",
     "reviews": "Reviews",
+    "faq": "FAQ",
     "map": "Map",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Revolution Square",
+    "title": "Revolution Square (Plaza de la Revolución)",
     "subtitle": "Plaza de la Revolución · Havana, Cuba",
     "rating": "4.5",
-    "reviewCount": "7,331",
+    "reviewCount": "7,333",
     "hours": "City Square",
-    "openMaps": "View Location"
+    "openMaps": "View Location",
+    "imgAlt": "Revolution Square (Plaza de la Revolución) - Main view in Havana, Cuba"
   },
   "intro": {
     "title": "Feel the Beating Heart of Cuba",
-    "description": "Located in Havana, the capital of Cuba, Revolution Square is not only one of the largest city squares in the world but also an absolute witness to modern Cuban history. Standing here, under the gaze of José Martí and in front of the steel portrait of Che Guevara, you can feel the glory and vicissitudes of the Cuban Revolution.",
+    "description": "Located in Havana, the capital of Cuba, Revolution Square is not only one of the largest city squares in the world but also an absolute witness to modern Cuban history. Standing here, under the gaze of José Martí and in front of the steel portrait of Che Guevara, you can feel the glory and vicissitudes of the Cuban Revolution. When visiting Revolution Square (Plaza de la Revolución), travellers can easily explore surrounding historical landmarks and points of interest, including the José Martí Memorial, Old Havana (Habana Vieja) and the Malecón seaside promenade.",
     "visitGuide": {
       "title": "Pro Tips",
       "items": [
@@ -212,7 +215,9 @@
   "mapSection": {
     "title": "Location & Map",
     "subtitle": "4JF7+3FQ, Av. Paseo, La Habana, Cuba",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "authority": "Official tourism information:",
+    "authorityLink": "Cuba Travel (Ministry of Tourism)"
   },
   "footer": {
     "rights": "© 2026 Revolution Square. All rights reserved.",
@@ -242,11 +247,12 @@
         "url": "https://www.prensa-latina.cu/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "photoCredit": "All photos displayed on this website remain the property of their respective copyright owners."
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last Updated: June 2026",
+    "lastUpdated": "Last Updated: September 9, 2026",
     "sections": [
       {
         "heading": "1. Information We Collect",
@@ -268,7 +274,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last Updated: June 2026",
+    "lastUpdated": "Last Updated: September 9, 2026",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -294,7 +300,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "description": "Last Updated: September 9, 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
     "essential": {
       "title": "Essential Cookies",
       "description": "These cookies are essential for the website to function properly and cannot be disabled.",
@@ -378,5 +384,211 @@
     ],
     "guideTitle": "Visitor Guide Tip",
     "guideContent": "When visiting, you can start from the center of the square and visit the José Martí Memorial, then ascend to the observation deck for a panoramic view of Havana; then visit the museum inside the memorial to learn about the life and thoughts of Cuba's independence hero José Martí; then head to the surroundings of the square to admire the giant portraits of Che Guevara and Camilo Cienfuegos on the Ministry of Interior and Ministry of Communications buildings. Finally, stroll on the square and feel the solemn atmosphere of this important landmark that carries modern Cuban history."
+  },
+  "breadcrumb": {
+    "items": ["Home", "Cuba", "Havana", "Revolution Square (Plaza de la Revolución)"]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Common questions about Revolution Square's location, entry and visits.",
+    "items": [
+      {
+        "q": "Where is Revolution Square (Plaza de la Revolución) located?",
+        "a": "Revolution Square is located on Av. Paseo in central Havana, Cuba (Plus Code 4JF7+3FQ), directly in front of the José Martí Memorial, in the Vedado district. It is an open public square and free to visit."
+      },
+      {
+        "q": "Is Revolution Square free to visit?",
+        "a": "Yes. The square is a public space open 24 hours a day, year-round, with free admission. Note that entering the museum and observation deck of the José Martí Memorial requires a ticket; please check prices on site."
+      },
+      {
+        "q": "What can you see at Revolution Square?",
+        "a": "The main highlights include the 109-metre star-shaped José Martí Memorial and statue, the giant steel portrait of Che Guevara on the Ministry of the Interior building, the Camilo Cienfuegos portrait on the Ministry of Communications building, and the colourful classic cars parked along the edge of the square."
+      },
+      {
+        "q": "How do I get to Revolution Square?",
+        "a": "The square stands on Av. Paseo in central Havana. You can reach it by taxi, classic-car taxi or the hop-on hop-off tourist bus. From Old Havana (Habana Vieja) the ride takes roughly 20-30 minutes."
+      },
+      {
+        "q": "What is the best time to visit Revolution Square?",
+        "a": "Early morning or late afternoon offers the best light for photos, since the open square has no shade at midday. For the José Martí Memorial's observation deck, check current opening hours through official channels before your visit."
+      },
+      {
+        "q": "What other landmarks are near Revolution Square?",
+        "a": "Nearby attractions include Old Havana (Habana Vieja), the Malecón seaside promenade, the University of Havana and the cultural institutions of the Plaza de la Revolución municipality - easy to combine into a full-day itinerary."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & Official Information",
+    "subtitle": "Official sources for planning your visit to Revolution Square in Havana.",
+    "lastUpdated": "Content last reviewed: September 9, 2026",
+    "disclaimer": "This website is an independent third-party travel guide and is not affiliated with the Cuban government or any official institution. The information provided is for reference only - always verify details through official channels before travelling.",
+    "items": [
+      {
+        "name": "Cuba Travel (Ministry of Tourism)",
+        "url": "https://www.cuba.travel/",
+        "description": "The official tourism portal of Cuba, with destination information and practical advice for Havana and the whole country."
+      },
+      {
+        "name": "Presidency of Cuba",
+        "url": "https://www.presidencia.gob.cu/",
+        "description": "Official website of the Cuban government with national activities and official releases."
+      },
+      {
+        "name": "Granma Newspaper",
+        "url": "https://en.granma.cu/",
+        "description": "The official newspaper of Cuba, covering national news and cultural events."
+      },
+      {
+        "name": "Ministry of Foreign Affairs of Cuba (Minrex)",
+        "url": "https://cubaminrex.cu/es",
+        "description": "Official site of Cuba's Ministry of Foreign Affairs with diplomatic updates and statements."
+      },
+      {
+        "name": "Prensa Latina",
+        "url": "https://www.prensa-latina.cu/",
+        "description": "An international news agency based in Cuba providing news about Cuba and the world."
+      }
+    ]
+  },
+  "weather": {
+    "title": "Live Weather & 7-Day Forecast",
+    "subtitle": "Live conditions, a 7-day outlook and weather-based advice for visiting Revolution Square (Plaza de la Revolución) in Havana.",
+    "updated": "Updated",
+    "today": "Today",
+    "feels": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "uv": "UV index",
+    "precipProb": "Rain prob.",
+    "unavailable": "Weather data is temporarily unavailable. Please check back later.",
+    "days": {
+      "Sun": "Sun",
+      "Mon": "Mon",
+      "Tue": "Tue",
+      "Wed": "Wed",
+      "Thu": "Thu",
+      "Fri": "Fri",
+      "Sat": "Sat"
+    },
+    "groups": {
+      "clear": "Clear",
+      "partly": "Partly cloudy",
+      "cloudy": "Cloudy",
+      "fog": "Fog",
+      "drizzle": "Drizzle",
+      "rain": "Rain",
+      "snow": "Snow",
+      "showers": "Showers",
+      "thunder": "Thunderstorm"
+    },
+    "advice": {
+      "dressLabel": "What to wear",
+      "planLabel": "Plan your visit",
+      "gearLabel": "Pack these",
+      "riskLabel": "Risk alerts",
+      "empty": "Conditions are calm – a standard visit to the square should be fine, with no special preparation needed.",
+      "dHeavy": "Rain and wind – a waterproof or quick-dry jacket is your best choice.",
+      "dHot": "It's hot – go for light, breathable, light-coloured clothing and keep drinking water handy.",
+      "dCold": "Chilly – bring a warm jacket and cover your neck and hands.",
+      "dLayers": "Temperatures swing between day and night – pack a light layer for the cooler hours.",
+      "dSnow": "Snow – wear a warm coat and non-slip, insulated footwear.",
+      "pThunder": "Thunderstorms make open spaces like the square unsafe – postpone the visit or switch to an indoor plan.",
+      "pSnow": "Snowfall gives the square a special look, but take it slowly with warm, non-slip gear.",
+      "pHeavy": "Heavy rain – skip long outdoor stretches and favour museums or indoor venues.",
+      "pLight": "Light rain makes the paving slippery and the open-air walk less enjoyable – keep it short or choose indoors.",
+      "pChance": "Rain is likely but not certain – carry rain gear and keep an indoor backup ready.",
+      "pHot": "Avoid the fierce midday sun – explore the square early in the morning or in the late afternoon.",
+      "pOvercast": "Cloud cover softens the light and kills the harsh sun – great for a long stroll and architecture photos.",
+      "pClear": "Perfect conditions for sightseeing and photos – late-afternoon light flatters the monuments.",
+      "gHeavy": "Raincoat (safer than an umbrella in wind)",
+      "gUmbrella": "Folding umbrella",
+      "gUv": "Sunscreen, sunglasses and a hat",
+      "gWater": "Drinking water (stay hydrated in the heat)",
+      "gWarm": "Warm layer",
+      "rThunder": "Lightning risk: the square is wide open – during a thunderstorm take shelter indoors or in a car and stay away from trees and high points.",
+      "rHeavy": "Heavy rain – avoid low, flooded spots; the plaza paving gets slippery, so walk carefully.",
+      "rGale": "Strong wind – keep clear of signs, scaffolding and anything that could fall.",
+      "rFog": "Fog cuts visibility – slow down when walking or driving.",
+      "riskAlert": "Official weather warning – {event}: limit time outdoors, avoid open areas and follow official guidance."
+    }
+  },
+  "facilities": {
+    "title": "Visitor Services & Nearby Facilities",
+    "subtitle": "Essential services around Revolution Square, listed by category to help you plan a smoother visit (non-commercial).",
+    "intro": "The services and facilities below are listed by category only, to help you prepare for your visit. As a neutral educational site we do not recommend any specific business.",
+    "hint": "Neutral info · no business recommendations",
+    "types": [
+      {
+        "name": "Public restrooms",
+        "description": "As an open public space, the square has limited fixed restrooms; look for public facilities around the José Martí Memorial and in nearby parks and museums, and confirm opening status before you go."
+      },
+      {
+        "name": "Parking",
+        "description": "There is some on-street parking along Av. Paseo and nearby streets, plus lots around the memorial. Spaces fill up on public holidays and rally days, so taxis or public transport are often easier."
+      },
+      {
+        "name": "Dining",
+        "description": "Restaurants, cafés and snack places serving Cuban and international food are within easy walking distance in the Vedado streets bordering the square."
+      },
+      {
+        "name": "Accommodation",
+        "description": "The surrounding Vedado and Plaza de la Revolución districts offer a range of places to stay, from hotels to private homestays (casas particulares)."
+      },
+      {
+        "name": "Supermarkets & shops",
+        "description": "Nearby neighbourhoods have convenience stores, supermarkets and souvenir shops where you can buy water, snacks and travel essentials."
+      },
+      {
+        "name": "Fuel & charging",
+        "description": "Petrol stations are available across the city; electric-vehicle charging points are still limited, so plan refuelling or charging ahead if you are driving."
+      },
+      {
+        "name": "Cash & currency exchange",
+        "description": "Everyday payments in Cuba are largely cash-based. Bring US dollars, euros or Canadian dollars and exchange them at banks or official exchange offices (CADECA); foreign-card ATM withdrawals are limited."
+      },
+      {
+        "name": "Pharmacies & medical care",
+        "description": "Pharmacies (farmacias) and medical facilities can be found in the Vedado area; dial 104 in an emergency."
+      }
+    ]
+  },
+  "stories": {
+    "title": "History & Stories Behind the Square",
+    "subtitle": "The stories behind the square's unmistakable skyline and its place in Cuba's collective memory.",
+    "kindFact": "Historical fact",
+    "kindTradition": "Tradition",
+    "items": [
+      {
+        "title": "From Plaza Cívica to Revolution Square",
+        "kind": "fact",
+        "text": "The broad grounds now occupied by the square were set aside as a civic space in the first half of the 20th century and originally known as Plaza Cívica. After the triumph of the Cuban Revolution in 1959 the site was renamed Revolution Square (Plaza de la Revolución) and became the country's principal stage for major public gatherings."
+      },
+      {
+        "title": "The 109-metre white tower of the José Martí Memorial",
+        "kind": "fact",
+        "text": "The José Martí Memorial (Monumento a José Martí) at the centre of the square honours Cuba's national hero. Its 109-metre tower is crowned by a white marble statue of Martí created by sculptor Juan José Sicre, and the top offers sweeping views over the whole city. The slender silhouette is one of the most recognisable features of the Havana skyline."
+      },
+      {
+        "title": "Che's face: from Korda's camera to a steel mural",
+        "kind": "fact",
+        "text": "The giant profile of Che Guevara on the Ministry of the Interior building comes from the famous photograph taken by Cuban photographer Alberto Korda in 1960. Artist Enrique Ávila translated the image into an iron silhouette mounted on the facade; it was unveiled in 1993 under the words “Hasta la Victoria Siempre” (Ever Onward to Victory). Lit up at night, it is one of the most photographed sights of the square."
+      },
+      {
+        "title": "Camilo Cienfuegos on the Ministry of Communications",
+        "kind": "fact",
+        "text": "On the other side of the square, the Ministry of Communications building carries a matching silhouette of the revolutionary hero Camilo Cienfuegos, paired with his celebrated words to Fidel Castro: “Vas bien, Fidel”. It was unveiled in 2009 on the 50th anniversary of his mysterious disappearance."
+      },
+      {
+        "title": "May Day parades and grand gatherings",
+        "kind": "tradition",
+        "text": "Since the early revolutionary years, Revolution Square has been the traditional venue for May Day parades, celebrations of the 26th of July and major national events, hosting some of the largest crowds in the country's history. In 1998 and 2015, popes John Paul II and Francis each celebrated a huge open-air Mass here."
+      },
+      {
+        "title": "One of the world's largest squares?",
+        "kind": "fact",
+        "text": "The vast open esplanade is often described as one of the world's largest squares. With no single official yardstick for measurement, the claim is above all impressionistic; either way, the sheer scale of the space, framed by the memorial tower and giant portraits, is unforgettable."
+      }
+    ]
   }
 }

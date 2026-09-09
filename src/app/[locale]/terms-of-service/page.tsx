@@ -8,7 +8,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
-  const baseUrl = 'https://visitplazadelosmariachis.com';
+  const baseUrl = 'https://plazadelarevolucioncuba.com';
   const zhUrl = `${baseUrl}/zh/terms-of-service`;
   const enUrl = `${baseUrl}/en/terms-of-service`;
   const esUrl = `${baseUrl}/es/terms-of-service`;
@@ -21,7 +21,7 @@ export async function generateMetadata({
         'zh': zhUrl,
         'en': enUrl,
         'es': esUrl,
-        'x-default': zhUrl,
+        'x-default': esUrl,
       },
     },
   };

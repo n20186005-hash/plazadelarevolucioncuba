@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { siteConfig } from '@/config';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/W8thrgWWbavuLXwa7";
+  const mapsUrl = siteConfig.mapsUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -26,14 +27,14 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Revolution+Square+Havana+Cuba&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={siteConfig.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Revolution Square"
+            referrerPolicy="strict-origin-when-cross-origin"
+            title={`Google Maps - ${siteConfig.shortName} (${siteConfig.fullName})`}
           />
         </div>
 
@@ -58,6 +59,19 @@ export default function MapEmbed() {
             </svg>
           </a>
         </div>
+
+        <p className="mt-6 text-center text-sm" style={{ color: 'var(--text-muted)' }}>
+          {t('authority')}{' '}
+          <a
+            href={siteConfig.govtTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-medium hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('authorityLink')}
+          </a>
+        </p>
       </div>
     </section>
   );
