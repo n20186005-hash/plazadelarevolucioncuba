@@ -3,8 +3,8 @@
  * 所有 SEO 实体、地图、评分等集中于此，避免散落硬编码。
  */
 export const siteConfig = {
-  domain: 'plazadelarevolucioncuba.com',
-  baseUrl: 'https://plazadelarevolucioncuba.com',
+  domain: 'www.plazadelarevolucioncuba.com',
+  baseUrl: 'https://www.plazadelarevolucioncuba.com',
   locales: ['zh', 'en', 'es'] as const,
   defaultLocale: 'es',
 

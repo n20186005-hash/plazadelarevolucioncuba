@@ -10,7 +10,6 @@ import RouteSection from '@/components/RouteSection';
 import HoursSection from '@/components/HoursSection';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
-import WeatherSection from '@/components/WeatherSection';
 import FacilitiesSection from '@/components/FacilitiesSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
@@ -177,7 +176,6 @@ export default async function HomePage({
         <HoursSection />
         <TicketsSection />
         <TransportSection />
-        <WeatherSection />
         <FacilitiesSection />
         <Gallery />
         <Reviews />

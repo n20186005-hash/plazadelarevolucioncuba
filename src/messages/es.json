@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Plaza de la Revolución, La Habana: Guía, Mapa y Cómo Llegar",
-    "description": "Conoce la Plaza de la Revolución en La Habana, Cuba: murales del Che Guevara y de Cienfuegos, Monumento a José Martí, mapa, horarios y cómo llegar."
+    "title": "Plaza de la Revolución en La Habana, Cuba | Guía y Mapa",
+    "description": "Visita la Plaza de la Revolución en La Habana, Cuba. Descubre el monumento a José Martí, los murales del Che y Camilo, cómo llegar, mapa y consejos."
   },
   "header": {
     "home": "Inicio",
@@ -96,13 +96,15 @@
   },
   "hours": {
     "title": "Horarios de Apertura",
-    "outdoor": "Horario de la Plaza",
-    "outdoorTime": "Abierto todo el día (plaza pública)",
-    "lighthouse": "Horario del Museo del Monumento",
+    "outdoor": "Plaza (área abierta)",
+    "outdoorTime": "Abierto 24 horas",
+    "outdoorNote": "Acceso libre y gratuito durante todo el año",
+    "lighthouse": "Monumento a José Martí (museo y mirador)",
     "summer": "Martes a sábado",
-    "summerTime": "9:00 AM – 5:00 PM",
+    "summerTime": "9:00 – 17:00",
     "winter": "Domingo y lunes",
-    "winterTime": "9:00 AM – 1:00 PM (por favor verificar la información más reciente)",
+    "winterTime": "9:00 – 13:00 (verificar)",
+    "deckNote": "El mirador de la torre sigue el horario del museo; puede variar según la fuente oficial.",
     "warning": "Notas Importantes",
     "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
     "tip": "Las visitas diurnas ofrecen la mejor experiencia"
@@ -159,58 +161,9 @@
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
-    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "declaration": "Mostramos la valoración agregada de Google Maps. No publicamos reseñas individuales con nombres y fechas, ya que no podemos verificarlas como propias de visitantes reales. Consulta el detalle completo en el enlace externo de Google Maps.",
     "moreReviews": "Ver Más Reseñas en Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rodríguez",
-        "date": "hace 3 meses",
-        "rating": 5,
-        "text": "Un lugar lleno de significancia histórica. Parado en la plaza, puedes sentir el gran espíritu de la Revolución Cubana y la importancia de la historia."
-      },
-      {
-        "name": "María Fernández",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Hito histórico asombroso. El Monumento a José Martí es espectacular, y puedes sobrever todo el hermoso paisaje de La Habana desde el mirador."
-      },
-      {
-        "name": "John Smith",
-        "date": "hace 2 semanas",
-        "rating": 4,
-        "text": "Lugar muy significativo para comprender profundamente la historia y cultura de Cuba. El retrato de Che Guevara es impresionante."
-      },
-      {
-        "name": "Ana López",
-        "date": "hace más de 6 meses",
-        "rating": 5,
-        "text": "Una parte importante de la historia de Cuba. El ambiente de la plaza es conmovedor, un lugar imprescindible en La Habana."
-      },
-      {
-        "name": "Roberto Martínez",
-        "date": "hace 1 año",
-        "rating": 4,
-        "text": "Excelente experiencia histórica y cultural. La arquitectura del monumento es maravillosa, y hay muchos lugares que vale la pena explorar cerca."
-      },
-      {
-        "name": "Sophie Dubois",
-        "date": "hace 3 meses",
-        "rating": 5,
-        "text": "Plaza hermosa y solemne, llena del encanto de la historia cubana. El retrato de Che Guevara es inolvidable, definitivamente vale la pena visitarlo."
-      },
-      {
-        "name": "Luis Gómez",
-        "date": "hace 2 meses",
-        "rating": 4,
-        "text": "Lugar histórico interesante. Experimento la historia revolucionaria cubana de cerca, se recomiendan las visitas guiadas para una comprensión más profunda."
-      },
-      {
-        "name": "Elena Castro",
-        "date": "hace 1 mes",
-        "rating": 5,
-        "text": "Un hito importante de La Habana. La Plaza de la Revolución es un lugar importante para comprender la historia moderna de Cuba, definitivamente vale la pena experimentarlo."
-      }
-    ]
+    "onGoogle": "reseñas en Google Maps"
   },
   "mapSection": {
     "title": "Ubicación y Mapa",
@@ -567,7 +520,7 @@
       {
         "title": "La torre blanca de 109 metros del Monumento a José Martí",
         "kind": "fact",
-        "text": "El Monumento a José Martí, en el centro de la plaza, honra al héroe nacional cubano. Su torre de 109 metros culmina en una estatua de mármol blanco de Martí obra del escultor Juan José Sicre, y desde la cima se domina toda la ciudad. Su silueta esbelta es uno de los rasgos más reconocibles del perfil de La Habana."
+        "text": "El Monumento a José Martí, en el centro de la plaza, honra al héroe nacional cubano. Frente a la base de su torre de 109 metros se alza la estatua de mármol blanco de Martí, obra del escultor Juan José Sicre; desde la cima de la torre se domina toda la ciudad. Su silueta esbelta es uno de los rasgos más reconocibles del perfil de La Habana."
       },
       {
         "title": "El rostro del Che: de la cámara de Korda al mural de acero",

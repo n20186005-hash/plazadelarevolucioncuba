@@ -11,7 +11,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const outDir = join(__dirname, '..', 'out');
 
 // 与 src/config.ts 保持一致
-const BASE_URL = 'https://plazadelarevolucioncuba.com';
+const BASE_URL = 'https://www.plazadelarevolucioncuba.com';
 const DEFAULT_LOCALE = 'es';
 const target = `/${DEFAULT_LOCALE}`;
 

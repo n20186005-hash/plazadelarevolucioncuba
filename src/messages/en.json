@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Revolution Square Havana: Visitor Guide, History & Map",
-    "description": "Plan your visit to Revolution Square (Plaza de la Revolución) in Havana, Cuba. Discover Che Guevara murals, José Martí Memorial, map, and travel tips."
+    "title": "Revolution Square Havana, Cuba | Visitor Guide & Map",
+    "description": "Visit Revolution Square (Plaza de la Revolución) in Havana, Cuba. See the José Martí Memorial, the Che Guevara and Camilo murals, opening hours, how to get there, map and visitor tips."
   },
   "header": {
     "home": "Home",
@@ -96,13 +96,15 @@
   },
   "hours": {
     "title": "Opening Hours",
-    "outdoor": "Square Opening Hours",
-    "outdoorTime": "Open all day (public square)",
-    "lighthouse": "Memorial Museum Opening Hours",
+    "outdoor": "Square (open area)",
+    "outdoorTime": "Open 24 hours",
+    "outdoorNote": "Free public access, all year round",
+    "lighthouse": "José Martí Memorial (museum & deck)",
     "summer": "Tuesday to Saturday",
-    "summerTime": "9:00 AM – 5:00 PM",
+    "summerTime": "9:00 – 17:00",
     "winter": "Sunday and Monday",
-    "winterTime": "9:00 AM – 1:00 PM (please verify latest information)",
+    "winterTime": "9:00 – 13:00 (verify)",
+    "deckNote": "The tower observation deck follows the museum schedule and may vary by official source.",
     "warning": "Important Notes",
     "warningTime": "Recommended to verify latest information before visiting",
     "tip": "Daytime visits offer the best experience"
@@ -159,58 +161,9 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
-    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "declaration": "We show the aggregate Google Maps rating. We do not publish individual reviews with names and dates, as we cannot verify them as genuine visitor accounts. See the full detail via the external Google Maps link.",
     "moreReviews": "View More Reviews on Google Maps",
-    "items": [
-      {
-        "name": "Carlos Rodríguez",
-        "date": "3 months ago",
-        "rating": 5,
-        "text": "A place full of historical significance. Standing on the square, you can feel the great spirit of the Cuban Revolution and the weight of history."
-      },
-      {
-        "name": "María Fernández",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "Amazing historical landmark. The José Martí Memorial is spectacular, and you can overlook the beautiful scenery of all Havana from the observation deck."
-      },
-      {
-        "name": "John Smith",
-        "date": "2 weeks ago",
-        "rating": 4,
-        "text": "Very meaningful place to gain deep understanding of Cuban history and culture. The Che Guevara portrait is impressive."
-      },
-      {
-        "name": "Ana López",
-        "date": "Over 6 months ago",
-        "rating": 5,
-        "text": "An important part of Cuban history. The atmosphere of the square is moving, a must-visit place in Havana."
-      },
-      {
-        "name": "Roberto Martínez",
-        "date": "1 year ago",
-        "rating": 4,
-        "text": "Great historical and cultural experience. The memorial architecture is wonderful, and there are many places worth exploring nearby."
-      },
-      {
-        "name": "Sophie Dubois",
-        "date": "3 months ago",
-        "rating": 5,
-        "text": "Beautiful and solemn square, full of the charm of Cuban history. The Che Guevara portrait is unforgettable, definitely worth a visit."
-      },
-      {
-        "name": "Luis Gómez",
-        "date": "2 months ago",
-        "rating": 4,
-        "text": "Interesting historical venue. Experience Cuban revolutionary history up close, guided tours are recommended for deeper understanding."
-      },
-      {
-        "name": "Elena Castro",
-        "date": "1 month ago",
-        "rating": 5,
-        "text": "An important landmark of Havana. Revolution Square is an important place to understand modern Cuban history, definitely worth experiencing."
-      }
-    ]
+    "onGoogle": "reviews on Google Maps"
   },
   "mapSection": {
     "title": "Location & Map",
@@ -567,7 +520,7 @@
       {
         "title": "The 109-metre white tower of the José Martí Memorial",
         "kind": "fact",
-        "text": "The José Martí Memorial (Monumento a José Martí) at the centre of the square honours Cuba's national hero. Its 109-metre tower is crowned by a white marble statue of Martí created by sculptor Juan José Sicre, and the top offers sweeping views over the whole city. The slender silhouette is one of the most recognisable features of the Havana skyline."
+        "text": "The José Martí Memorial (Monumento a José Martí) at the centre of the square honours Cuba's national hero. In front of the base of its 109-metre tower stands the white marble statue of Martí created by sculptor Juan José Sicre; from the top of the tower you get sweeping views over the whole city. The slender silhouette is one of the most recognisable features of the Havana skyline."
       },
       {
         "title": "Che's face: from Korda's camera to a steel mural",

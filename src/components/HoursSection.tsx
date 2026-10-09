@@ -18,12 +18,26 @@ export default function HoursSection() {
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          <TimeCard title={t('outdoor')} time={t('outdoorTime')} iconKey="outdoor" />
-          <TimeCard title={t('lighthouse')} time={t('summer')} timeValue={t('summerTime')} iconKey="lighthouse" />
-        </div>
-
-        <div className="mb-6">
-          <TimeCard title={t('winter')} time={t('winterTime')} iconKey="calendar" />
+          <TimeCard
+            title={t('outdoor')}
+            time={t('outdoorTime')}
+            note={t('outdoorNote')}
+            iconKey="outdoor"
+          />
+          <div
+            className="rounded-xl p-6"
+            style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+          >
+            <div className="flex items-center gap-3 mb-3" style={{ color: 'var(--accent)' }}>
+              {icons.lighthouse}
+              <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('lighthouse')}</h3>
+            </div>
+            <div className="space-y-2">
+              <ScheduleRow label={t('summer')} value={t('summerTime')} />
+              <ScheduleRow label={t('winter')} value={t('winterTime')} />
+            </div>
+            <p className="text-xs mt-3" style={{ color: 'var(--text-muted)' }}>{t('deckNote')}</p>
+          </div>
         </div>
 
         <div
@@ -56,32 +70,16 @@ export default function HoursSection() {
   );
 }
 
-function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: string; timeValue?: string; iconKey: string }) {
-  const icons: Record<string, ReactNode> = {
-    outdoor: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-        <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
-        <polyline points="9 22 9 12 15 12 15 22"/>
-      </svg>
-    ),
-    lighthouse: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-        <path d="M12 2L8 22h8L12 2z"/>
-        <circle cx="12" cy="8" r="3"/>
-        <path d="M2 12h4"/>
-        <path d="M18 12h4"/>
-      </svg>
-    ),
-    calendar: (
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-        <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
-        <line x1="16" y1="2" x2="16" y2="6"/>
-        <line x1="8" y1="2" x2="8" y2="6"/>
-        <line x1="3" y1="10" x2="21" y2="10"/>
-      </svg>
-    ),
-  };
+function ScheduleRow({ label, value }: { label: string; value: string }) {
+  return (
+    <div className="flex items-baseline justify-between gap-3 border-b" style={{ borderColor: 'var(--border-color)' }}>
+      <span className="text-sm" style={{ color: 'var(--text-secondary)' }}>{label}</span>
+      <span className="text-sm font-semibold text-right" style={{ color: 'var(--text-primary)' }}>{value}</span>
+    </div>
+  );
+}
 
+function TimeCard({ title, time, note, iconKey }: { title: string; time: string; note?: string; iconKey: string }) {
   return (
     <div
       className="rounded-xl p-6"
@@ -91,7 +89,33 @@ function TimeCard({ title, time, timeValue, iconKey }: { title: string; time?: s
         {icons[iconKey]}
         <h3 className="font-medium" style={{ color: 'var(--text-primary)' }}>{title}</h3>
       </div>
-      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time || timeValue}</p>
+      <p className="text-lg font-semibold" style={{ color: 'var(--text-primary)' }}>{time}</p>
+      {note && <p className="text-xs mt-2" style={{ color: 'var(--text-muted)' }}>{note}</p>}
     </div>
   );
 }
+
+const icons: Record<string, ReactNode> = {
+  outdoor: (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
+      <polyline points="9 22 9 12 15 12 15 22"/>
+    </svg>
+  ),
+  lighthouse: (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <path d="M12 2L8 22h8L12 2z"/>
+      <circle cx="12" cy="8" r="3"/>
+      <path d="M2 12h4"/>
+      <path d="M18 12h4"/>
+    </svg>
+  ),
+  calendar: (
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+      <rect x="3" y="4" width="18" height="18" rx="2" ry="2"/>
+      <line x1="16" y1="2" x2="16" y2="6"/>
+      <line x1="8" y1="2" x2="8" y2="6"/>
+      <line x1="3" y1="10" x2="21" y2="10"/>
+    </svg>
+  ),
+};
